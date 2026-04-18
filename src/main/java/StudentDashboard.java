@@ -30,7 +30,7 @@ public class StudentDashboard {
     private int selectedGoalId = -1;
 
     // VERİTABANI BAĞLANTISI
-    private final String URL = "jdbc:mysql://localhost:3306/BIM216_Project?useUnicode=true&characterEncoding=UTF-8";
+    private final String URL = "jdbc:mysql://localhost:3307/BIM216_Project?useUnicode=true&characterEncoding=UTF-8&allowPublicKeyRetrieval=true";
     private final String USER = "root";
     private final String PASS = "";
 
@@ -832,3 +832,4 @@ public class StudentDashboard {
         public String getQuizDate() { return quizDate; }
     }
 }
+

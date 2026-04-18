@@ -19,7 +19,7 @@ public class AdvisorDashboard {
     private int advisorId;
     private StackPane contentArea;
 
-    private final String URL = "jdbc:mysql://localhost:3306/BIM216_Project?useUnicode=true&characterEncoding=UTF-8";
+    private final String URL = "jdbc:mysql://localhost:3307/BIM216_Project?useUnicode=true&characterEncoding=UTF-8&allowPublicKeyRetrieval=true";
     private final String USER = "root";
     private final String PASS = "";
 
@@ -60,10 +60,10 @@ public class AdvisorDashboard {
     }
 
     private void setupSideBar(BorderPane main) {
-        VBox sideBar = new VBox(15);
-        sideBar.setPadding(new Insets(30, 15));
-        sideBar.setPrefWidth(240);
-        sideBar.setStyle("-fx-background-color: #1e272e;");
+         VBox sideBar = new VBox(15);
+         sideBar.setPadding(new Insets(30, 15, 30, 15));
+         sideBar.setPrefWidth(240);
+         sideBar.setStyle("-fx-background-color: #1e272e;");
 
         Label logo = new Label("FOCUSUP");
         logo.setStyle("-fx-text-fill: #00cec9; -fx-font-size: 24px; -fx-font-weight: 900;");
@@ -205,15 +205,26 @@ public class AdvisorDashboard {
 
     // --- YARDIMCI METOTLAR ---
     private ObservableList<StudentRow> loadStudents() {
-        ObservableList<StudentRow> list = FXCollections.observableArrayList();
-        try (Connection conn = DriverManager.getConnection(URL, USER, PASS)) {
-            PreparedStatement ps = conn.prepareStatement("SELECT StudentID, ST_FullName FROM STUDENT WHERE AdvisorID = ?");
-            ps.setInt(1, advisorId);
-            ResultSet rs = ps.executeQuery();
-            while(rs.next()) list.add(new StudentRow(rs.getInt(1), rs.getString(2)));
-        } catch (SQLException e) { e.printStackTrace(); }
-        return list;
-    }
+         ObservableList<StudentRow> list = FXCollections.observableArrayList();
+         try (Connection conn = DriverManager.getConnection(URL, USER, PASS)) {
+             PreparedStatement ps = conn.prepareStatement("SELECT StudentID, ST_FullName FROM STUDENT WHERE AdvisorID = ?");
+             ps.setInt(1, advisorId);
+             ResultSet rs = ps.executeQuery();
+             while(rs.next()) list.add(new StudentRow(rs.getInt(1), rs.getString(2)));
+         } catch (SQLException e) { e.printStackTrace(); }
+         return list;
+     }
+
+     private ObservableList<SubjectRow> loadSubjectsFromDB() {
+         ObservableList<SubjectRow> list = FXCollections.observableArrayList();
+         try (Connection conn = DriverManager.getConnection(URL, USER, PASS)) {
+             PreparedStatement ps = conn.prepareStatement("SELECT SubjectID, SubjectName FROM SUBJECT WHERE AdvisorID = ?");
+             ps.setInt(1, advisorId);
+             ResultSet rs = ps.executeQuery();
+             while(rs.next()) list.add(new SubjectRow(rs.getInt(1), rs.getString(2)));
+         } catch (SQLException e) { e.printStackTrace(); }
+         return list;
+     }
 
     private void executeSQL(String sql) {
         try (Connection conn = DriverManager.getConnection(URL, USER, PASS); Statement st = conn.createStatement()) {
