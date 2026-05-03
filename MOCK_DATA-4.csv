@@ -1,0 +1,1001 @@
+RecommendationID,StudentID,RecommendationText,RecommendationType,GeneratedDate
+1,804,Bir sonraki quizden önce konuyu tekrar etmelisin.,Hedef Takibi,2025-10-12
+2,231,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-07-09
+3,982,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-06-14
+4,912,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2026-01-07
+5,56,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2025-07-29
+6,604,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2026-01-08
+7,622,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-05-29
+8,766,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2025-06-20
+9,647,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2026-01-11
+10,429,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2025-10-18
+11,595,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-11-04
+12,844,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2026-02-11
+13,844,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-07-09
+14,345,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2025-07-09
+15,692,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2025-10-09
+16,257,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2026-04-30
+17,105,Önceki quiz hatalarını tekrar incelemelisin.,Çalışma Alışkanlığı,2026-03-09
+18,368,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2026-03-07
+19,553,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2026-02-23
+20,753,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2025-11-29
+21,578,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-07-28
+22,101,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-07-09
+23,345,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2026-01-01
+24,544,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2025-09-03
+25,368,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2025-09-30
+26,184,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2025-09-11
+27,210,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-08-08
+28,247,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2026-02-10
+29,512,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2026-02-05
+30,680,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-07-13
+31,385,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2026-01-16
+32,190,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-07-21
+33,686,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2025-09-09
+34,559,Daha fazla pratik soru çözmelisin.,Düşük Puan,2025-10-23
+35,621,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2026-01-12
+36,863,Danışmanından ek destek istemelisin.,Düşük Puan,2026-01-24
+37,584,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-02-27
+38,183,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2025-05-20
+39,891,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2025-08-08
+40,70,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2026-04-14
+41,123,Önceki quiz hatalarını tekrar incelemelisin.,Zaman Yönetimi,2026-01-26
+42,40,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-06-12
+43,818,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-10-20
+44,445,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-05-22
+45,971,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-08-15
+46,822,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2025-10-20
+47,355,Danışmanından ek destek istemelisin.,Hedef Takibi,2025-06-27
+48,862,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2025-08-01
+49,188,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2026-04-08
+50,613,Çalışırken kısa molalar vermelisin.,Motivasyon,2025-07-22
+51,558,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2026-02-11
+52,656,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2025-12-04
+53,429,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2026-03-28
+54,194,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2025-05-12
+55,711,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-08-10
+56,950,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-06-17
+57,100,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-10-14
+58,893,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2025-06-30
+59,602,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2025-06-26
+60,674,Haftalık çalışma süreni artırmalısın.,Çalışma Alışkanlığı,2025-10-20
+61,927,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-11-13
+62,219,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-05-07
+63,941,Haftalık çalışma süreni artırmalısın.,Çalışma Alışkanlığı,2025-05-13
+64,313,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2026-03-30
+65,935,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-05-23
+66,79,Her gün en az 30 dakika çalışmalısın.,Performans Uyarısı,2026-03-13
+67,207,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2026-01-24
+68,926,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2026-02-26
+69,928,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2026-03-09
+70,475,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-08-13
+71,564,Daha fazla pratik soru çözmelisin.,Genel Öneri,2025-06-21
+72,38,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2025-09-17
+73,883,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-11-13
+74,38,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2025-09-09
+75,717,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-08-30
+76,201,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2026-04-04
+77,118,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2025-12-26
+78,333,Çalışırken kısa molalar vermelisin.,Motivasyon,2025-11-24
+79,901,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-11-09
+80,941,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2025-11-03
+81,790,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2025-09-25
+82,576,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-08-03
+83,332,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2025-09-17
+84,929,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2026-01-02
+85,340,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2026-03-03
+86,134,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2026-04-04
+87,343,Danışmanından ek destek istemelisin.,Konu Tekrarı,2026-01-26
+88,202,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2025-08-18
+89,165,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-01-16
+90,885,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2025-11-25
+91,719,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2025-12-30
+92,185,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-11-04
+93,30,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-09-01
+94,592,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-09-09
+95,719,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2026-02-05
+96,132,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-12-10
+97,706,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2025-09-24
+98,456,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-12-09
+99,866,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2025-10-08
+100,140,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-05-09
+101,1000,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-11-19
+102,496,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2025-06-28
+103,433,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-05-29
+104,918,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2026-03-19
+105,935,Çalışırken kısa molalar vermelisin.,Hedef Takibi,2025-07-11
+106,318,Çalışırken kısa molalar vermelisin.,Genel Öneri,2025-12-06
+107,103,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2025-10-02
+108,911,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-04-05
+109,123,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2025-09-08
+110,100,Her gün en az 30 dakika çalışmalısın.,Pratik Önerisi,2025-08-13
+111,109,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2025-08-16
+112,269,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2026-03-15
+113,85,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-05-27
+114,384,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2026-04-07
+115,474,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2025-12-06
+116,365,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2026-04-11
+117,176,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-11-25
+118,153,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2025-12-31
+119,72,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2026-04-28
+120,675,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2025-05-18
+121,562,Danışmanından ek destek istemelisin.,Konu Tekrarı,2026-03-04
+122,285,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-03-18
+123,851,Daha fazla pratik soru çözmelisin.,Düşük Puan,2025-10-25
+124,116,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2026-02-06
+125,553,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-08-12
+126,863,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2025-08-23
+127,875,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-09-21
+128,65,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2026-02-25
+129,572,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2026-02-07
+130,544,Önceki quiz hatalarını tekrar incelemelisin.,Çalışma Alışkanlığı,2025-05-10
+131,752,Daha fazla pratik soru çözmelisin.,Motivasyon,2025-12-27
+132,957,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-07-10
+133,954,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2025-12-11
+134,651,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2025-06-28
+135,412,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2025-11-08
+136,40,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2025-09-29
+137,390,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2026-01-11
+138,44,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2026-02-05
+139,289,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2025-05-17
+140,315,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2026-04-20
+141,449,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2026-01-31
+142,338,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-08-18
+143,198,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-12-05
+144,241,Her gün en az 30 dakika çalışmalısın.,Pratik Önerisi,2026-01-01
+145,552,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-02-06
+146,505,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-08-03
+147,663,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-10-26
+148,603,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2026-04-13
+149,884,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-08-21
+150,99,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2025-06-14
+151,272,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2026-02-16
+152,70,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2025-06-24
+153,892,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2026-02-26
+154,569,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-07-27
+155,241,Önceki quiz hatalarını tekrar incelemelisin.,Çalışma Alışkanlığı,2025-12-19
+156,541,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-06-08
+157,873,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-11-18
+158,828,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2025-10-11
+159,871,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2025-07-11
+160,651,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2026-04-08
+161,999,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-09-14
+162,838,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-05-30
+163,846,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2026-01-20
+164,662,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2026-03-12
+165,2,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2025-09-26
+166,961,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2026-03-17
+167,433,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2025-08-18
+168,952,Her gün en az 30 dakika çalışmalısın.,Pratik Önerisi,2026-01-23
+169,685,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2025-10-15
+170,316,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2026-01-13
+171,276,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-10-20
+172,640,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-11-01
+173,837,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2025-12-26
+174,844,Önceki quiz hatalarını tekrar incelemelisin.,Çalışma Alışkanlığı,2025-07-06
+175,39,Çalışırken kısa molalar vermelisin.,Zaman Yönetimi,2025-09-16
+176,571,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2025-10-31
+177,356,Danışmanından ek destek istemelisin.,Pratik Önerisi,2026-04-24
+178,309,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2026-04-14
+179,690,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-07-23
+180,593,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-12-13
+181,403,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2026-02-11
+182,306,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-10-29
+183,535,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2026-04-21
+184,215,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2025-12-27
+185,63,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-06-11
+186,766,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2025-06-16
+187,124,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-04-15
+188,531,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2026-04-26
+189,442,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2025-07-15
+190,223,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-08-09
+191,391,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2026-04-26
+192,790,Daha fazla pratik soru çözmelisin.,Motivasyon,2025-10-01
+193,510,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-02-03
+194,75,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2026-01-08
+195,944,Önceki quiz hatalarını tekrar incelemelisin.,Zaman Yönetimi,2025-07-23
+196,636,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2026-02-22
+197,494,Önceki quiz hatalarını tekrar incelemelisin.,Zaman Yönetimi,2025-12-22
+198,187,Düşük aldığın konuları tekrar etmelisin.,Zaman Yönetimi,2026-03-02
+199,578,Bir sonraki quizden önce konuyu tekrar etmelisin.,Zaman Yönetimi,2025-05-06
+200,224,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-05-14
+201,939,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2025-07-08
+202,236,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2025-07-26
+203,227,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2026-04-26
+204,89,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-11-09
+205,408,Önceki quiz hatalarını tekrar incelemelisin.,Konu Tekrarı,2026-02-24
+206,506,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2026-01-10
+207,537,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-03-09
+208,354,Önceki quiz hatalarını tekrar incelemelisin.,Genel Öneri,2025-08-16
+209,105,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2025-08-20
+210,865,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2026-04-13
+211,9,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2025-12-02
+212,835,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-11-21
+213,125,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2026-02-24
+214,225,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2025-05-03
+215,433,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2026-02-10
+216,488,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-09-23
+217,655,Daha fazla pratik soru çözmelisin.,Düşük Puan,2025-10-17
+218,178,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2025-12-26
+219,179,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2026-03-09
+220,965,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2025-09-30
+221,334,Çalışırken kısa molalar vermelisin.,Zaman Yönetimi,2026-02-13
+222,139,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-05-21
+223,96,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2026-04-22
+224,226,Çalışırken kısa molalar vermelisin.,Düşük Puan,2025-05-27
+225,853,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2025-07-29
+226,996,Danışmanından ek destek istemelisin.,Konu Tekrarı,2026-01-21
+227,797,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2026-01-02
+228,677,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2025-09-11
+229,534,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2026-02-22
+230,723,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2025-10-16
+231,861,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2025-09-07
+232,921,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2026-02-12
+233,467,Danışmanından ek destek istemelisin.,Genel Öneri,2025-08-13
+234,120,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2025-12-01
+235,326,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2026-01-02
+236,1000,Danışmanından ek destek istemelisin.,Düşük Puan,2025-05-19
+237,706,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-06-22
+238,703,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-06-06
+239,983,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2026-04-17
+240,305,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-09-29
+241,776,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-07-07
+242,83,Haftalık çalışma süreni artırmalısın.,Çalışma Alışkanlığı,2025-11-30
+243,438,Önceki quiz hatalarını tekrar incelemelisin.,Konu Tekrarı,2025-12-25
+244,999,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2025-12-16
+245,459,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-09-06
+246,85,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2026-04-27
+247,43,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2025-09-02
+248,574,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2025-08-01
+249,71,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-10-03
+250,133,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2025-07-17
+251,710,Çalışırken kısa molalar vermelisin.,Genel Öneri,2025-07-05
+252,587,Düşük aldığın konuları tekrar etmelisin.,Danışman Desteği,2026-03-27
+253,30,Haftalık çalışma süreni artırmalısın.,Genel Öneri,2025-08-26
+254,378,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-08-11
+255,256,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2025-06-18
+256,40,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-10-18
+257,8,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2026-04-14
+258,586,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2025-06-09
+259,604,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2025-07-18
+260,764,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2025-06-08
+261,171,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2025-11-05
+262,420,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2025-10-13
+263,215,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2025-09-12
+264,357,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-11-14
+265,422,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-08-11
+266,269,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-07-29
+267,439,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-09-14
+268,640,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2025-11-23
+269,352,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2025-10-25
+270,908,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2026-04-03
+271,100,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-12-11
+272,361,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2026-02-19
+273,404,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-09-20
+274,171,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2026-02-11
+275,469,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-11-14
+276,264,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-06-21
+277,835,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2026-03-04
+278,479,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2025-10-25
+279,91,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-05-08
+280,56,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-11-17
+281,256,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2025-11-05
+282,464,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-08-08
+283,44,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2025-10-09
+284,135,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2026-01-10
+285,263,Zorlandığın derslere daha fazla zaman ayırmalısın.,Zaman Yönetimi,2025-05-13
+286,43,Önceki quiz hatalarını tekrar incelemelisin.,Pratik Önerisi,2026-01-27
+287,888,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2025-08-24
+288,864,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2026-04-30
+289,227,Çalışırken kısa molalar vermelisin.,Hedef Takibi,2026-03-13
+290,639,Düşük aldığın konuları tekrar etmelisin.,Zaman Yönetimi,2025-06-03
+291,451,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2026-03-24
+292,867,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2026-01-10
+293,557,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2026-04-10
+294,823,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-10-04
+295,910,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2026-04-08
+296,23,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2026-03-04
+297,43,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2025-09-23
+298,205,Çalışırken kısa molalar vermelisin.,Genel Öneri,2025-07-26
+299,506,Bir sonraki quizden önce konuyu tekrar etmelisin.,Hedef Takibi,2025-10-26
+300,856,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-08-25
+301,128,Çalışırken kısa molalar vermelisin.,Motivasyon,2025-11-19
+302,37,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-12-24
+303,804,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2026-04-19
+304,389,Bir sonraki quizden önce konuyu tekrar etmelisin.,Hedef Takibi,2025-10-23
+305,982,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2025-05-16
+306,131,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2025-10-10
+307,794,Düşük aldığın konuları tekrar etmelisin.,Danışman Desteği,2025-11-19
+308,846,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2025-09-12
+309,944,Danışmanından ek destek istemelisin.,Motivasyon,2025-09-25
+310,144,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2026-04-25
+311,628,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2026-02-22
+312,531,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2026-03-31
+313,467,Danışmanından ek destek istemelisin.,Pratik Önerisi,2025-06-19
+314,875,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2026-01-12
+315,278,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2026-04-20
+316,64,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2025-06-18
+317,762,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2026-03-20
+318,2,Zorlandığın derslere daha fazla zaman ayırmalısın.,Düşük Puan,2025-09-04
+319,908,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2025-11-25
+320,435,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2025-11-28
+321,465,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2026-03-30
+322,539,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2025-09-21
+323,407,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-05-03
+324,17,Danışmanından ek destek istemelisin.,Danışman Desteği,2026-04-08
+325,360,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2025-06-24
+326,616,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2025-09-02
+327,213,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-06-03
+328,996,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-12-08
+329,383,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2026-03-14
+330,971,Haftalık çalışma süreni artırmalısın.,Çalışma Alışkanlığı,2025-09-26
+331,160,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-07-19
+332,391,Bir sonraki quizden önce konuyu tekrar etmelisin.,Hedef Takibi,2025-09-16
+333,452,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-06-10
+334,648,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2026-01-01
+335,427,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2025-05-14
+336,702,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2025-12-23
+337,806,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2026-02-09
+338,418,Önceki quiz hatalarını tekrar incelemelisin.,Genel Öneri,2025-12-10
+339,577,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-12-18
+340,305,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2026-04-02
+341,704,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2025-12-15
+342,756,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2025-07-21
+343,758,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-08-05
+344,752,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2026-04-25
+345,220,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-04-23
+346,589,Danışmanından ek destek istemelisin.,Hedef Takibi,2026-01-22
+347,657,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2026-03-15
+348,501,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2026-03-22
+349,889,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-01-31
+350,651,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2026-03-24
+351,908,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2026-01-03
+352,9,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-12-26
+353,579,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-09-14
+354,650,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-08-15
+355,543,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-09-01
+356,753,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-09-08
+357,676,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-12-25
+358,768,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2025-08-09
+359,900,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-09-16
+360,133,Çalışırken kısa molalar vermelisin.,Genel Öneri,2025-08-31
+361,962,Çalışırken kısa molalar vermelisin.,Genel Öneri,2026-02-12
+362,879,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2025-07-03
+363,115,Danışmanından ek destek istemelisin.,Düşük Puan,2026-04-27
+364,496,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-09-13
+365,832,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-06-24
+366,365,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-07-15
+367,872,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-11-09
+368,153,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2026-05-01
+369,966,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2025-12-10
+370,968,Daha fazla pratik soru çözmelisin.,Genel Öneri,2026-02-03
+371,923,Çalışırken kısa molalar vermelisin.,Düşük Puan,2026-02-16
+372,840,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-11-20
+373,112,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2026-01-03
+374,99,Çalışırken kısa molalar vermelisin.,Düşük Puan,2026-03-20
+375,426,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2026-04-12
+376,452,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2026-03-30
+377,837,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2026-03-17
+378,463,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2026-04-10
+379,134,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2025-11-24
+380,763,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-12-05
+381,148,Çalışırken kısa molalar vermelisin.,Zaman Yönetimi,2025-05-13
+382,396,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2025-09-20
+383,743,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2025-07-20
+384,35,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-01-14
+385,807,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2026-04-03
+386,6,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-05-23
+387,393,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-06-29
+388,872,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2026-04-29
+389,85,Haftalık çalışma süreni artırmalısın.,Genel Öneri,2026-03-25
+390,865,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-10-26
+391,893,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-09-01
+392,171,Haftalık çalışma süreni artırmalısın.,Motivasyon,2026-04-09
+393,157,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2025-12-29
+394,669,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-02-16
+395,830,Düşük aldığın konuları tekrar etmelisin.,Zaman Yönetimi,2025-09-02
+396,56,Düşük aldığın konuları tekrar etmelisin.,Danışman Desteği,2025-11-15
+397,747,Danışmanından ek destek istemelisin.,Düşük Puan,2025-10-07
+398,810,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-10-29
+399,551,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2026-01-08
+400,556,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2025-08-23
+401,921,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2025-11-21
+402,978,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-06-28
+403,171,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2025-06-04
+404,426,Daha fazla pratik soru çözmelisin.,Genel Öneri,2026-03-15
+405,324,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-07-18
+406,856,Düşük aldığın konuları tekrar etmelisin.,Danışman Desteği,2025-11-04
+407,589,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2026-02-11
+408,582,Daha fazla pratik soru çözmelisin.,Motivasyon,2026-03-07
+409,451,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-11-11
+410,440,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2025-12-17
+411,819,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2026-02-12
+412,301,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2025-10-15
+413,940,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2025-08-21
+414,113,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2026-02-27
+415,142,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-01-27
+416,689,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2025-10-10
+417,378,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2025-12-25
+418,895,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2025-05-19
+419,558,Çalışırken kısa molalar vermelisin.,Genel Öneri,2025-05-14
+420,418,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2026-01-31
+421,179,Çalışırken kısa molalar vermelisin.,Genel Öneri,2025-09-03
+422,922,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2026-02-14
+423,171,Danışmanından ek destek istemelisin.,Düşük Puan,2025-06-13
+424,92,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-10-20
+425,801,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2025-12-02
+426,505,Danışmanından ek destek istemelisin.,Performans Uyarısı,2025-10-01
+427,482,Çalışırken kısa molalar vermelisin.,Düşük Puan,2025-06-11
+428,813,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-12-28
+429,90,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2026-03-20
+430,704,Önceki quiz hatalarını tekrar incelemelisin.,Genel Öneri,2025-08-31
+431,608,Düşük aldığın konuları tekrar etmelisin.,Danışman Desteği,2026-03-30
+432,450,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-05-13
+433,314,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2026-04-20
+434,219,Haftalık çalışma süreni artırmalısın.,Genel Öneri,2026-03-05
+435,903,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2025-07-27
+436,436,Haftalık çalışma süreni artırmalısın.,Genel Öneri,2026-02-03
+437,32,Danışmanından ek destek istemelisin.,Performans Uyarısı,2026-01-30
+438,774,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2026-01-29
+439,56,Düzenli bir çalışma programı oluşturmalısın.,Konu Tekrarı,2025-10-24
+440,450,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2025-08-27
+441,74,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2026-01-19
+442,795,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2025-10-16
+443,590,Zorlandığın derslere daha fazla zaman ayırmalısın.,Düşük Puan,2026-04-20
+444,930,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-08-18
+445,379,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2025-10-16
+446,465,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2026-03-11
+447,925,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-11-20
+448,748,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2025-12-14
+449,53,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2025-10-12
+450,940,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-05-17
+451,576,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2026-05-01
+452,92,Önceki quiz hatalarını tekrar incelemelisin.,Zaman Yönetimi,2026-03-21
+453,506,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2025-12-13
+454,725,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2026-02-01
+455,579,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-12-02
+456,969,Çalışırken kısa molalar vermelisin.,Düşük Puan,2026-02-10
+457,155,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-10-01
+458,165,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-09-15
+459,765,Danışmanından ek destek istemelisin.,Genel Öneri,2025-07-10
+460,551,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2025-11-10
+461,371,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-09-09
+462,654,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2025-12-19
+463,913,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2025-07-15
+464,977,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2026-02-27
+465,385,Danışmanından ek destek istemelisin.,Danışman Desteği,2026-03-13
+466,116,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2026-03-31
+467,437,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2025-12-18
+468,913,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-10-13
+469,947,Önceki quiz hatalarını tekrar incelemelisin.,Zaman Yönetimi,2026-01-21
+470,467,Daha fazla pratik soru çözmelisin.,Motivasyon,2025-12-31
+471,652,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-05-14
+472,986,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-04-12
+473,592,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2026-04-10
+474,720,Çalışırken kısa molalar vermelisin.,Zaman Yönetimi,2025-12-09
+475,868,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-07-06
+476,510,Çalışırken kısa molalar vermelisin.,Motivasyon,2026-04-04
+477,615,Danışmanından ek destek istemelisin.,Motivasyon,2026-02-12
+478,716,Çalışırken kısa molalar vermelisin.,Düşük Puan,2026-02-17
+479,701,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2026-01-06
+480,187,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2025-07-09
+481,593,Önceki quiz hatalarını tekrar incelemelisin.,Konu Tekrarı,2025-06-17
+482,528,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-08-26
+483,325,Önceki quiz hatalarını tekrar incelemelisin.,Zaman Yönetimi,2025-10-31
+484,885,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2026-04-30
+485,740,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-01-22
+486,188,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2025-10-23
+487,196,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2026-01-22
+488,816,Daha fazla pratik soru çözmelisin.,Motivasyon,2025-08-25
+489,849,Önceki quiz hatalarını tekrar incelemelisin.,Pratik Önerisi,2025-08-15
+490,935,Danışmanından ek destek istemelisin.,Düşük Puan,2026-04-07
+491,997,Çalışırken kısa molalar vermelisin.,Motivasyon,2025-07-06
+492,481,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2025-10-02
+493,991,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-09-28
+494,359,Daha fazla pratik soru çözmelisin.,Düşük Puan,2026-02-02
+495,103,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2025-11-03
+496,167,Zorlandığın derslere daha fazla zaman ayırmalısın.,Zaman Yönetimi,2026-04-14
+497,707,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2025-10-15
+498,407,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2025-09-09
+499,50,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2025-08-29
+500,329,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-11-28
+501,719,Zorlandığın derslere daha fazla zaman ayırmalısın.,Düşük Puan,2025-09-08
+502,674,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2026-02-10
+503,585,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-08-27
+504,483,Danışmanından ek destek istemelisin.,Motivasyon,2025-09-12
+505,405,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-11-06
+506,35,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-05-13
+507,95,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2025-06-27
+508,256,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2026-03-14
+509,954,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2025-08-27
+510,852,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-11-18
+511,725,Haftalık çalışma süreni artırmalısın.,Çalışma Alışkanlığı,2025-12-01
+512,187,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-05-20
+513,859,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2025-07-13
+514,955,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2025-07-11
+515,591,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-07-15
+516,838,Her gün en az 30 dakika çalışmalısın.,Pratik Önerisi,2026-03-07
+517,206,Düzenli bir çalışma programı oluşturmalısın.,Konu Tekrarı,2026-01-26
+518,249,Her gün en az 30 dakika çalışmalısın.,Performans Uyarısı,2025-05-04
+519,11,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2025-09-07
+520,646,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2025-05-25
+521,377,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-11-24
+522,407,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-06-19
+523,377,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2026-02-10
+524,642,Önceki quiz hatalarını tekrar incelemelisin.,Çalışma Alışkanlığı,2025-05-25
+525,562,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-07-21
+526,812,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2025-07-10
+527,728,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2026-01-30
+528,486,Danışmanından ek destek istemelisin.,Genel Öneri,2025-09-26
+529,872,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2025-09-15
+530,855,Çalışırken kısa molalar vermelisin.,Genel Öneri,2025-10-18
+531,873,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-06-07
+532,497,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2026-03-18
+533,103,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2025-08-03
+534,777,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2026-03-17
+535,219,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2025-07-08
+536,425,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-08-17
+537,560,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-09-04
+538,79,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2025-07-12
+539,148,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2025-11-26
+540,605,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2026-03-08
+541,587,Çalışırken kısa molalar vermelisin.,Zaman Yönetimi,2025-08-14
+542,266,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2026-04-17
+543,911,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-10-26
+544,74,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-07-21
+545,541,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2026-01-14
+546,100,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2026-02-10
+547,81,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-08-07
+548,610,Danışmanından ek destek istemelisin.,Motivasyon,2025-05-05
+549,350,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2026-03-30
+550,501,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2026-03-01
+551,695,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-09-15
+552,604,Düşük aldığın konuları tekrar etmelisin.,Zaman Yönetimi,2026-05-01
+553,479,Bir sonraki quizden önce konuyu tekrar etmelisin.,Zaman Yönetimi,2025-11-25
+554,83,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2025-10-09
+555,248,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-12-26
+556,376,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2026-04-27
+557,977,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2026-02-21
+558,565,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2025-05-07
+559,610,Daha fazla pratik soru çözmelisin.,Düşük Puan,2025-09-29
+560,631,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-06-19
+561,885,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2026-01-14
+562,638,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-11-12
+563,368,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-11-14
+564,443,Daha fazla pratik soru çözmelisin.,Motivasyon,2025-07-28
+565,689,Haftalık çalışma süreni artırmalısın.,Genel Öneri,2025-05-23
+566,192,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-09-14
+567,844,Çalışırken kısa molalar vermelisin.,Düşük Puan,2025-10-19
+568,329,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2026-02-05
+569,33,Çalışırken kısa molalar vermelisin.,Motivasyon,2025-08-25
+570,735,Bir sonraki quizden önce konuyu tekrar etmelisin.,Zaman Yönetimi,2026-04-22
+571,679,Danışmanından ek destek istemelisin.,Danışman Desteği,2026-02-05
+572,536,Önceki quiz hatalarını tekrar incelemelisin.,Pratik Önerisi,2025-10-25
+573,739,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2025-09-15
+574,425,Bir sonraki quizden önce konuyu tekrar etmelisin.,Hedef Takibi,2025-11-04
+575,262,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2026-04-21
+576,837,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-09-30
+577,134,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2025-07-26
+578,197,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2026-04-03
+579,179,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2026-04-13
+580,22,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-01-07
+581,870,Bir sonraki quizden önce konuyu tekrar etmelisin.,Zaman Yönetimi,2026-02-23
+582,152,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2025-12-16
+583,301,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2025-10-18
+584,615,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-12-27
+585,160,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2025-06-13
+586,358,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2025-05-21
+587,174,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2025-08-06
+588,745,Danışmanından ek destek istemelisin.,Motivasyon,2025-07-05
+589,519,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2025-07-16
+590,139,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2026-03-21
+591,903,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2025-07-23
+592,664,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2025-05-11
+593,659,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2026-04-22
+594,136,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2026-04-10
+595,890,Önceki quiz hatalarını tekrar incelemelisin.,Konu Tekrarı,2026-01-26
+596,397,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2026-03-15
+597,416,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-06-01
+598,683,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-11-22
+599,52,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-01-06
+600,576,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-08-29
+601,138,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-09-17
+602,877,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2025-08-26
+603,183,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-05-22
+604,494,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2026-02-21
+605,938,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-12-25
+606,306,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-08-28
+607,571,Daha fazla pratik soru çözmelisin.,Düşük Puan,2026-02-07
+608,160,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2025-05-05
+609,690,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-09-18
+610,950,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-09-04
+611,363,Danışmanından ek destek istemelisin.,Genel Öneri,2026-03-17
+612,541,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-09-09
+613,898,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2025-07-08
+614,350,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2026-01-04
+615,826,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2026-02-03
+616,469,Danışmanından ek destek istemelisin.,Konu Tekrarı,2026-01-02
+617,229,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2026-04-26
+618,934,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2025-12-15
+619,603,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2026-01-24
+620,747,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2025-08-06
+621,952,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2025-10-15
+622,826,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2025-12-07
+623,653,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2026-02-02
+624,863,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-09-09
+625,121,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2025-05-13
+626,901,Önceki quiz hatalarını tekrar incelemelisin.,Konu Tekrarı,2026-01-01
+627,432,Düşük aldığın konuları tekrar etmelisin.,Zaman Yönetimi,2025-12-27
+628,350,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2026-03-01
+629,43,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2026-03-27
+630,631,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-11-02
+631,514,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2025-10-16
+632,53,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-12-07
+633,462,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-09-16
+634,264,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2026-04-17
+635,181,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-07-22
+636,199,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-05-07
+637,712,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2026-01-03
+638,861,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-10-22
+639,672,Daha fazla pratik soru çözmelisin.,Motivasyon,2026-02-12
+640,477,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-01-24
+641,1000,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2026-01-05
+642,680,Zorlandığın derslere daha fazla zaman ayırmalısın.,Zaman Yönetimi,2026-04-02
+643,678,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2026-01-31
+644,146,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2025-06-27
+645,947,Düzenli bir çalışma programı oluşturmalısın.,Konu Tekrarı,2026-04-14
+646,510,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-10-02
+647,442,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2026-03-23
+648,244,Önceki quiz hatalarını tekrar incelemelisin.,Çalışma Alışkanlığı,2026-02-07
+649,538,Danışmanından ek destek istemelisin.,Hedef Takibi,2026-03-30
+650,997,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-12-03
+651,832,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-05-13
+652,134,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-10-22
+653,654,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2026-02-05
+654,397,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-12-11
+655,103,Her gün en az 30 dakika çalışmalısın.,Performans Uyarısı,2025-08-10
+656,625,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-09-05
+657,839,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-04-04
+658,309,Danışmanından ek destek istemelisin.,Motivasyon,2026-01-02
+659,726,Daha fazla pratik soru çözmelisin.,Düşük Puan,2025-08-21
+660,849,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2026-03-13
+661,679,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2025-10-05
+662,924,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2025-08-23
+663,950,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2026-03-02
+664,931,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2026-01-12
+665,544,Danışmanından ek destek istemelisin.,Genel Öneri,2025-10-28
+666,935,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-10-11
+667,970,Düzenli bir çalışma programı oluşturmalısın.,Konu Tekrarı,2025-12-08
+668,378,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2025-09-16
+669,621,Zorlandığın derslere daha fazla zaman ayırmalısın.,Zaman Yönetimi,2025-06-19
+670,434,Danışmanından ek destek istemelisin.,Düşük Puan,2025-06-30
+671,283,Düşük aldığın konuları tekrar etmelisin.,Zaman Yönetimi,2025-07-07
+672,446,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-07-20
+673,628,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2026-04-16
+674,983,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-06-28
+675,809,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-09-05
+676,271,Danışmanından ek destek istemelisin.,Konu Tekrarı,2026-02-24
+677,999,Çalışırken kısa molalar vermelisin.,Genel Öneri,2026-01-10
+678,142,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2026-01-21
+679,182,Çalışırken kısa molalar vermelisin.,Düşük Puan,2025-10-21
+680,878,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2025-08-01
+681,680,Danışmanından ek destek istemelisin.,Hedef Takibi,2025-10-26
+682,642,Önceki quiz hatalarını tekrar incelemelisin.,Çalışma Alışkanlığı,2025-08-19
+683,167,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2026-01-13
+684,566,Danışmanından ek destek istemelisin.,Düşük Puan,2025-06-13
+685,42,Danışmanından ek destek istemelisin.,Motivasyon,2025-08-18
+686,67,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2026-04-11
+687,282,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2025-10-15
+688,750,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-12-13
+689,526,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-10-11
+690,787,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-11-03
+691,16,Danışmanından ek destek istemelisin.,Düşük Puan,2025-05-15
+692,88,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2025-12-22
+693,413,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2025-08-09
+694,891,Her gün en az 30 dakika çalışmalısın.,Pratik Önerisi,2025-10-18
+695,985,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2025-05-10
+696,768,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2026-01-18
+697,716,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2026-01-13
+698,817,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2025-09-25
+699,246,Zorlandığın derslere daha fazla zaman ayırmalısın.,Zaman Yönetimi,2025-08-19
+700,506,Her gün en az 30 dakika çalışmalısın.,Performans Uyarısı,2025-12-01
+701,67,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2026-04-21
+702,648,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2026-02-07
+703,299,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2025-07-10
+704,17,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2025-06-23
+705,189,Danışmanından ek destek istemelisin.,Motivasyon,2026-04-19
+706,504,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2025-05-07
+707,503,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2025-10-27
+708,740,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-11-08
+709,708,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2026-01-01
+710,642,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-11-30
+711,604,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-09-14
+712,110,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-06-09
+713,421,Önceki quiz hatalarını tekrar incelemelisin.,Genel Öneri,2026-03-04
+714,741,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-10-06
+715,411,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2025-10-06
+716,999,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2025-05-15
+717,779,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-08-24
+718,704,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-05-10
+719,927,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2025-09-19
+720,153,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-05-28
+721,836,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2025-07-22
+722,416,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2026-03-10
+723,345,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-06-20
+724,116,Önceki quiz hatalarını tekrar incelemelisin.,Pratik Önerisi,2025-06-02
+725,510,Danışmanından ek destek istemelisin.,Performans Uyarısı,2026-03-08
+726,415,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-08-30
+727,882,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2025-11-30
+728,16,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2026-01-28
+729,382,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2026-04-07
+730,356,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-09-01
+731,667,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-11-14
+732,339,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2025-06-11
+733,303,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-10-20
+734,461,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-12-11
+735,919,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2025-10-20
+736,895,Çalışırken kısa molalar vermelisin.,Hedef Takibi,2025-08-23
+737,530,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2025-12-20
+738,998,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2026-03-28
+739,543,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-12-01
+740,231,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2026-02-16
+741,136,Çalışırken kısa molalar vermelisin.,Hedef Takibi,2025-07-04
+742,796,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-05-21
+743,544,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2026-02-28
+744,401,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2026-03-16
+745,739,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2025-11-26
+746,417,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-12-30
+747,773,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2026-04-29
+748,153,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2026-01-28
+749,862,Önceki quiz hatalarını tekrar incelemelisin.,Genel Öneri,2025-06-10
+750,441,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2025-06-17
+751,431,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-08-28
+752,810,Danışmanından ek destek istemelisin.,Genel Öneri,2026-03-01
+753,175,Danışmanından ek destek istemelisin.,Pratik Önerisi,2025-11-20
+754,172,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2025-08-05
+755,838,Düzenli bir çalışma programı oluşturmalısın.,Pratik Önerisi,2026-01-24
+756,169,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2026-01-30
+757,233,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-06-26
+758,867,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2025-08-20
+759,983,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-05-21
+760,800,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-12-09
+761,601,Haftalık çalışma süreni artırmalısın.,Çalışma Alışkanlığı,2026-02-25
+762,879,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2026-03-24
+763,371,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-06-10
+764,842,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2025-07-24
+765,297,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2026-01-27
+766,880,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2026-03-05
+767,283,Her gün en az 30 dakika çalışmalısın.,Performans Uyarısı,2026-01-06
+768,745,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2025-12-03
+769,460,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2025-08-01
+770,243,Haftalık çalışma süreni artırmalısın.,Zaman Yönetimi,2025-06-05
+771,249,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-01-10
+772,708,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2025-05-20
+773,770,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2025-11-07
+774,673,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-08-02
+775,570,Danışmanından ek destek istemelisin.,Danışman Desteği,2026-04-22
+776,588,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2025-10-02
+777,587,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2026-02-25
+778,300,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2025-09-11
+779,881,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2026-02-01
+780,581,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2026-03-17
+781,582,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-07-24
+782,643,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2025-09-30
+783,717,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2026-03-09
+784,769,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-12-31
+785,873,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-12-29
+786,865,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2025-09-18
+787,371,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2026-04-13
+788,431,Bir sonraki quizden önce konuyu tekrar etmelisin.,Motivasyon,2026-01-22
+789,187,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2026-01-05
+790,920,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-08-10
+791,334,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2026-03-11
+792,42,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2025-05-28
+793,181,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-11-14
+794,160,Önceki quiz hatalarını tekrar incelemelisin.,Genel Öneri,2026-04-14
+795,183,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2025-10-19
+796,245,Daha fazla pratik soru çözmelisin.,Danışman Desteği,2025-09-03
+797,703,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2026-03-30
+798,566,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-11-19
+799,59,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-07-16
+800,285,Danışmanından ek destek istemelisin.,Motivasyon,2025-09-30
+801,799,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-06-09
+802,58,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-05-30
+803,402,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2026-03-18
+804,569,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-06-11
+805,439,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2026-01-24
+806,513,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2026-03-01
+807,488,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2026-03-23
+808,484,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-10-22
+809,229,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-09-06
+810,31,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-10-31
+811,320,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2025-07-12
+812,105,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2026-03-16
+813,123,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-05-28
+814,868,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2026-04-12
+815,746,Haftalık çalışma süreni artırmalısın.,Çalışma Alışkanlığı,2026-03-08
+816,165,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2026-02-14
+817,584,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2025-09-15
+818,143,Danışmanından ek destek istemelisin.,Pratik Önerisi,2025-11-26
+819,853,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-08-20
+820,599,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2025-09-22
+821,788,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2025-07-01
+822,357,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2025-08-09
+823,888,Danışmanından ek destek istemelisin.,Performans Uyarısı,2026-02-21
+824,767,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-11-01
+825,954,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-12-10
+826,757,Her gün en az 30 dakika çalışmalısın.,Pratik Önerisi,2026-01-05
+827,874,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-05-31
+828,984,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-10-23
+829,221,Önceki quiz hatalarını tekrar incelemelisin.,Konu Tekrarı,2026-04-16
+830,516,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2026-03-16
+831,33,Düzenli bir çalışma programı oluşturmalısın.,Konu Tekrarı,2026-03-24
+832,670,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2026-03-02
+833,417,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2026-04-11
+834,566,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2025-12-29
+835,17,Daha fazla pratik soru çözmelisin.,Hedef Takibi,2025-06-13
+836,883,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2025-06-02
+837,709,Zorlandığın derslere daha fazla zaman ayırmalısın.,Düşük Puan,2026-01-22
+838,865,Önceki quiz hatalarını tekrar incelemelisin.,Genel Öneri,2026-04-03
+839,927,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2025-06-05
+840,257,Çalışırken kısa molalar vermelisin.,Motivasyon,2025-07-31
+841,629,Çalışırken kısa molalar vermelisin.,Performans Uyarısı,2026-01-24
+842,609,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2026-03-22
+843,449,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2026-03-13
+844,557,Danışmanından ek destek istemelisin.,Çalışma Alışkanlığı,2026-04-06
+845,143,Zorlandığın derslere daha fazla zaman ayırmalısın.,Çalışma Alışkanlığı,2025-06-09
+846,109,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-02-12
+847,486,Düzenli bir çalışma programı oluşturmalısın.,Konu Tekrarı,2025-08-10
+848,233,Danışmanından ek destek istemelisin.,Düşük Puan,2026-01-24
+849,980,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2026-03-21
+850,735,Danışmanından ek destek istemelisin.,Danışman Desteği,2026-04-06
+851,775,Düzenli bir çalışma programı oluşturmalısın.,Motivasyon,2026-02-09
+852,349,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2026-02-23
+853,592,Her gün en az 30 dakika çalışmalısın.,Zaman Yönetimi,2025-10-11
+854,327,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2025-10-04
+855,133,Bir sonraki quizden önce konuyu tekrar etmelisin.,Zaman Yönetimi,2025-12-11
+856,811,Düzenli bir çalışma programı oluşturmalısın.,Danışman Desteği,2026-04-12
+857,970,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2025-10-13
+858,424,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-06-05
+859,553,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2025-10-22
+860,507,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2025-08-09
+861,13,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-05-11
+862,101,Danışmanından ek destek istemelisin.,Konu Tekrarı,2025-11-18
+863,718,Haftalık çalışma süreni artırmalısın.,Motivasyon,2026-04-13
+864,690,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-01-09
+865,570,Bir sonraki quizden önce konuyu tekrar etmelisin.,Hedef Takibi,2025-06-29
+866,175,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-06-13
+867,865,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2025-09-03
+868,572,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-09-14
+869,315,Danışmanından ek destek istemelisin.,Genel Öneri,2026-04-06
+870,155,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2025-05-28
+871,19,Çalışırken kısa molalar vermelisin.,Çalışma Alışkanlığı,2026-04-01
+872,873,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2026-02-14
+873,677,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2025-09-19
+874,126,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2025-06-09
+875,331,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-08-17
+876,948,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2025-12-18
+877,604,Danışmanından ek destek istemelisin.,Hedef Takibi,2026-04-18
+878,733,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-08-12
+879,728,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2026-02-04
+880,336,Zorlandığın derslere daha fazla zaman ayırmalısın.,Performans Uyarısı,2025-07-03
+881,161,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-06-25
+882,982,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-07-05
+883,114,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2026-01-29
+884,200,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-06-10
+885,804,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-10-07
+886,864,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2026-01-27
+887,370,Çalışırken kısa molalar vermelisin.,Hedef Takibi,2025-08-06
+888,69,Çalışırken kısa molalar vermelisin.,Danışman Desteği,2026-02-04
+889,474,Her gün en az 30 dakika çalışmalısın.,Çalışma Alışkanlığı,2026-03-14
+890,730,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2025-07-21
+891,963,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2026-04-25
+892,103,Bir sonraki quizden önce konuyu tekrar etmelisin.,Performans Uyarısı,2025-12-21
+893,145,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2025-12-23
+894,907,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2025-12-29
+895,571,Her gün en az 30 dakika çalışmalısın.,Danışman Desteği,2025-12-03
+896,623,Zorlandığın derslere daha fazla zaman ayırmalısın.,Konu Tekrarı,2025-05-19
+897,186,Önceki quiz hatalarını tekrar incelemelisin.,Konu Tekrarı,2025-06-23
+898,953,Düşük aldığın konuları tekrar etmelisin.,Motivasyon,2025-08-17
+899,166,Önceki quiz hatalarını tekrar incelemelisin.,Pratik Önerisi,2026-01-12
+900,786,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-07-12
+901,731,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2026-02-26
+902,124,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2025-09-15
+903,959,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2026-02-07
+904,533,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-12-02
+905,588,Önceki quiz hatalarını tekrar incelemelisin.,Hedef Takibi,2026-04-10
+906,162,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2025-09-10
+907,852,Danışmanından ek destek istemelisin.,Hedef Takibi,2025-08-18
+908,421,Haftalık çalışma süreni artırmalısın.,Motivasyon,2025-05-18
+909,714,Haftalık çalışma süreni artırmalısın.,Genel Öneri,2025-06-02
+910,583,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2026-04-25
+911,430,Haftalık çalışma süreni artırmalısın.,Düşük Puan,2025-09-15
+912,226,Düzenli bir çalışma programı oluşturmalısın.,Genel Öneri,2025-09-10
+913,77,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2025-08-30
+914,193,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-05-04
+915,24,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2026-04-03
+916,922,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-12-05
+917,50,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2026-03-21
+918,480,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2026-01-31
+919,838,Daha fazla pratik soru çözmelisin.,Motivasyon,2026-03-11
+920,875,Zorlandığın derslere daha fazla zaman ayırmalısın.,Düşük Puan,2025-12-13
+921,735,Düşük aldığın konuları tekrar etmelisin.,Pratik Önerisi,2025-07-11
+922,363,Düşük aldığın konuları tekrar etmelisin.,Düşük Puan,2025-11-08
+923,792,Düzenli bir çalışma programı oluşturmalısın.,Düşük Puan,2025-06-25
+924,328,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2026-04-26
+925,560,Zorlandığın derslere daha fazla zaman ayırmalısın.,Zaman Yönetimi,2025-07-22
+926,622,Çalışırken kısa molalar vermelisin.,Genel Öneri,2026-04-19
+927,358,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2026-03-13
+928,737,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2025-11-24
+929,103,Zorlandığın derslere daha fazla zaman ayırmalısın.,Danışman Desteği,2025-06-29
+930,648,Zorlandığın derslere daha fazla zaman ayırmalısın.,Genel Öneri,2025-05-11
+931,266,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2026-04-01
+932,4,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2025-06-13
+933,564,Danışmanından ek destek istemelisin.,Konu Tekrarı,2026-04-21
+934,286,Haftalık çalışma süreni artırmalısın.,Performans Uyarısı,2025-05-29
+935,443,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2025-09-07
+936,720,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2026-04-12
+937,603,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-10-26
+938,66,Düzenli bir çalışma programı oluşturmalısın.,Çalışma Alışkanlığı,2026-04-22
+939,214,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2026-02-13
+940,143,Çalışırken kısa molalar vermelisin.,Zaman Yönetimi,2025-09-07
+941,996,Her gün en az 30 dakika çalışmalısın.,Genel Öneri,2025-11-30
+942,987,Danışmanından ek destek istemelisin.,Motivasyon,2025-09-23
+943,907,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2026-02-22
+944,573,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2026-02-14
+945,260,Zorlandığın derslere daha fazla zaman ayırmalısın.,Pratik Önerisi,2025-12-24
+946,731,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2025-05-18
+947,322,Düşük aldığın konuları tekrar etmelisin.,Hedef Takibi,2025-08-20
+948,674,Düzenli bir çalışma programı oluşturmalısın.,Performans Uyarısı,2025-07-28
+949,120,Danışmanından ek destek istemelisin.,Danışman Desteği,2025-09-14
+950,488,Bir sonraki quizden önce konuyu tekrar etmelisin.,Çalışma Alışkanlığı,2026-02-10
+951,653,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2025-09-05
+952,775,Önceki quiz hatalarını tekrar incelemelisin.,Performans Uyarısı,2026-03-23
+953,227,Bir sonraki quizden önce konuyu tekrar etmelisin.,Düşük Puan,2026-04-07
+954,511,Bir sonraki quizden önce konuyu tekrar etmelisin.,Konu Tekrarı,2025-09-18
+955,62,Düşük aldığın konuları tekrar etmelisin.,Çalışma Alışkanlığı,2026-01-03
+956,917,Her gün en az 30 dakika çalışmalısın.,Performans Uyarısı,2026-03-13
+957,804,Daha fazla pratik soru çözmelisin.,Performans Uyarısı,2025-11-29
+958,869,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-10-12
+959,838,Zorlandığın derslere daha fazla zaman ayırmalısın.,Hedef Takibi,2025-10-03
+960,190,Çalışırken kısa molalar vermelisin.,Pratik Önerisi,2025-10-29
+961,555,Düzenli bir çalışma programı oluşturmalısın.,Zaman Yönetimi,2025-06-09
+962,299,Düşük aldığın konuları tekrar etmelisin.,Performans Uyarısı,2025-10-22
+963,457,Danışmanından ek destek istemelisin.,Genel Öneri,2026-04-15
+964,110,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2025-08-02
+965,234,Her gün en az 30 dakika çalışmalısın.,Düşük Puan,2025-12-30
+966,354,Bir sonraki quizden önce konuyu tekrar etmelisin.,Pratik Önerisi,2026-02-03
+967,846,Her gün en az 30 dakika çalışmalısın.,Motivasyon,2026-04-08
+968,690,Her gün en az 30 dakika çalışmalısın.,Pratik Önerisi,2025-12-25
+969,539,Önceki quiz hatalarını tekrar incelemelisin.,Danışman Desteği,2026-04-04
+970,498,Çalışırken kısa molalar vermelisin.,Düşük Puan,2025-08-11
+971,816,Haftalık çalışma süreni artırmalısın.,Hedef Takibi,2026-04-22
+972,309,Çalışırken kısa molalar vermelisin.,Konu Tekrarı,2026-03-30
+973,920,Danışmanından ek destek istemelisin.,Düşük Puan,2026-04-07
+974,125,Önceki quiz hatalarını tekrar incelemelisin.,Pratik Önerisi,2025-09-05
+975,551,Haftalık çalışma süreni artırmalısın.,Konu Tekrarı,2026-01-04
+976,340,Zorlandığın derslere daha fazla zaman ayırmalısın.,Zaman Yönetimi,2026-01-03
+977,645,Daha fazla pratik soru çözmelisin.,Zaman Yönetimi,2025-08-03
+978,63,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2026-04-26
+979,643,Düzenli bir çalışma programı oluşturmalısın.,Hedef Takibi,2025-12-03
+980,619,Bir sonraki quizden önce konuyu tekrar etmelisin.,Danışman Desteği,2026-01-21
+981,408,Zorlandığın derslere daha fazla zaman ayırmalısın.,Motivasyon,2025-06-27
+982,310,Çalışırken kısa molalar vermelisin.,Düşük Puan,2025-09-12
+983,490,Düşük aldığın konuları tekrar etmelisin.,Genel Öneri,2026-04-17
+984,940,Daha fazla pratik soru çözmelisin.,Konu Tekrarı,2025-08-27
+985,301,Daha fazla pratik soru çözmelisin.,Çalışma Alışkanlığı,2025-07-11
+986,892,Danışmanından ek destek istemelisin.,Zaman Yönetimi,2025-08-23
+987,192,Her gün en az 30 dakika çalışmalısın.,Konu Tekrarı,2025-12-04
+988,709,Çalışırken kısa molalar vermelisin.,Düşük Puan,2025-05-02
+989,924,Çalışırken kısa molalar vermelisin.,Motivasyon,2026-04-25
+990,444,Önceki quiz hatalarını tekrar incelemelisin.,Düşük Puan,2025-08-28
+991,477,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-05-29
+992,100,Haftalık çalışma süreni artırmalısın.,Danışman Desteği,2025-09-27
+993,259,Haftalık çalışma süreni artırmalısın.,Pratik Önerisi,2026-03-18
+994,637,Önceki quiz hatalarını tekrar incelemelisin.,Pratik Önerisi,2025-08-04
+995,292,Daha fazla pratik soru çözmelisin.,Pratik Önerisi,2025-05-07
+996,253,Bir sonraki quizden önce konuyu tekrar etmelisin.,Genel Öneri,2026-04-28
+997,359,Düşük aldığın konuları tekrar etmelisin.,Konu Tekrarı,2026-04-06
+998,334,Danışmanından ek destek istemelisin.,Hedef Takibi,2025-10-23
+999,993,Her gün en az 30 dakika çalışmalısın.,Hedef Takibi,2026-01-07
+1000,385,Önceki quiz hatalarını tekrar incelemelisin.,Motivasyon,2025-07-20

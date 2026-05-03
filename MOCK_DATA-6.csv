@@ -1,0 +1,1001 @@
+SessionID,StudentID,SubjectID,StartTime,EndTime,SessionDate,FocusLevel,SessionNote
+1,273,208,00:00:00,01:00:00,2025-12-23,2,Bugünkü çalışma verimli geçti.
+2,347,207,00:00:00,00:45:00,2026-07-09,1,Çalışma süresi hedefe yakındı.
+3,794,214,00:00:00,00:25:00,2025-08-21,3,Bir sonraki çalışma için plan yapıldı.
+4,698,202,00:00:00,00:45:00,2026-12-05,3,Zorlanılan konular tekrar edildi.
+5,254,213,00:00:00,01:15:00,2027-01-10,2,Örnek sorular çözüldü.
+6,142,208,00:00:00,00:30:00,2026-08-16,2,Zorlanılan konular tekrar edildi.
+7,808,208,00:00:00,00:45:00,2026-10-17,1,Çalışma süresi hedefe yakındı.
+8,375,211,00:00:00,00:30:00,2026-04-13,4,Bugünkü çalışma verimli geçti.
+9,70,215,00:00:00,01:00:00,2025-09-01,3,Zorlanılan konular tekrar edildi.
+10,259,213,00:00:00,02:00:00,2026-02-21,4,Ders notları gözden geçirildi.
+11,537,216,00:00:00,00:45:00,2026-11-01,3,Quiz öncesi hazırlık yapıldı.
+12,133,205,00:00:00,01:15:00,2025-12-23,4,Konu tekrarı yapıldı.
+13,414,212,00:00:00,01:00:00,2026-06-27,2,Konu tekrarı yapıldı.
+14,992,201,00:00:00,00:30:00,2025-05-08,1,Çalışma süresi hedefe yakındı.
+15,367,216,00:00:00,00:30:00,2025-05-23,2,Ders notları gözden geçirildi.
+16,590,201,00:00:00,00:25:00,2025-05-20,3,Ders notları gözden geçirildi.
+17,606,214,00:00:00,00:25:00,2025-10-12,4,Odaklanma seviyesi orta düzeydeydi.
+18,795,208,00:00:00,01:15:00,2025-10-05,1,Konu tekrarı yapıldı.
+19,459,200,00:00:00,01:00:00,2026-08-19,5,Ders notları gözden geçirildi.
+20,804,214,00:00:00,00:45:00,2026-11-27,5,Çalışma süresi hedefe yakındı.
+21,598,206,00:00:00,01:00:00,2026-11-25,5,Quiz öncesi hazırlık yapıldı.
+22,729,211,00:00:00,01:15:00,2026-03-20,5,Örnek sorular çözüldü.
+23,137,202,00:00:00,02:00:00,2026-08-14,2,Zorlanılan konular tekrar edildi.
+24,811,208,00:00:00,01:15:00,2026-02-23,1,Konu tekrarı yapıldı.
+25,365,214,00:00:00,00:40:00,2026-08-07,3,Zorlanılan konular tekrar edildi.
+26,637,203,00:00:00,00:40:00,2026-09-22,2,Çalışma süresi hedefe yakındı.
+27,245,210,00:00:00,00:40:00,2025-08-24,4,Bir sonraki çalışma için plan yapıldı.
+28,661,202,00:00:00,00:25:00,2025-07-26,4,Odaklanma seviyesi orta düzeydeydi.
+29,51,200,00:00:00,01:00:00,2026-03-06,3,Bir sonraki çalışma için plan yapıldı.
+30,775,200,00:00:00,02:00:00,2025-07-14,3,Ders notları gözden geçirildi.
+31,138,205,00:00:00,00:25:00,2025-12-20,5,Odaklanma seviyesi orta düzeydeydi.
+32,16,210,00:00:00,02:00:00,2025-11-16,4,Örnek sorular çözüldü.
+33,613,211,00:00:00,00:25:00,2025-07-09,3,Çalışma süresi hedefe yakındı.
+34,970,202,00:00:00,00:25:00,2026-08-20,1,Odaklanma seviyesi orta düzeydeydi.
+35,510,203,00:00:00,00:45:00,2026-08-13,5,Bugünkü çalışma verimli geçti.
+36,532,212,00:00:00,01:30:00,2026-10-25,5,Örnek sorular çözüldü.
+37,81,207,00:00:00,00:40:00,2026-09-02,5,Bir sonraki çalışma için plan yapıldı.
+38,840,210,00:00:00,00:40:00,2026-04-17,2,Zorlanılan konular tekrar edildi.
+39,764,204,00:00:00,00:30:00,2025-12-21,5,Bir sonraki çalışma için plan yapıldı.
+40,548,208,00:00:00,00:30:00,2026-11-15,2,Zorlanılan konular tekrar edildi.
+41,115,206,00:00:00,00:30:00,2026-08-10,1,Bir sonraki çalışma için plan yapıldı.
+42,985,206,00:00:00,01:15:00,2025-11-06,2,Eksik konular belirlendi.
+43,587,208,00:00:00,00:45:00,2025-05-02,1,Bugünkü çalışma verimli geçti.
+44,159,202,00:00:00,01:00:00,2025-07-27,5,Örnek sorular çözüldü.
+45,660,201,00:00:00,00:25:00,2025-08-28,4,Bugünkü çalışma verimli geçti.
+46,470,211,00:00:00,00:30:00,2026-08-26,2,Örnek sorular çözüldü.
+47,991,205,00:00:00,01:00:00,2026-03-19,1,Örnek sorular çözüldü.
+48,943,208,00:00:00,02:00:00,2026-12-27,4,Eksik konular belirlendi.
+49,770,200,00:00:00,00:40:00,2026-03-24,2,Ders notları gözden geçirildi.
+50,245,209,00:00:00,02:00:00,2026-03-22,3,Bugünkü çalışma verimli geçti.
+51,641,203,00:00:00,00:30:00,2025-12-09,1,Konu tekrarı yapıldı.
+52,599,207,00:00:00,00:30:00,2025-05-03,1,Bir sonraki çalışma için plan yapıldı.
+53,337,214,00:00:00,00:40:00,2026-02-25,5,Ders notları gözden geçirildi.
+54,574,213,00:00:00,00:40:00,2026-10-01,4,Zorlanılan konular tekrar edildi.
+55,356,209,00:00:00,00:40:00,2026-03-03,1,Ders notları gözden geçirildi.
+56,433,205,00:00:00,02:00:00,2026-03-28,5,Konu tekrarı yapıldı.
+57,451,204,00:00:00,00:25:00,2025-12-23,4,Odaklanma seviyesi orta düzeydeydi.
+58,331,214,00:00:00,00:25:00,2026-11-07,5,Çalışma süresi hedefe yakındı.
+59,85,208,00:00:00,01:00:00,2025-07-25,4,Quiz öncesi hazırlık yapıldı.
+60,441,202,00:00:00,00:40:00,2026-06-26,3,Çalışma süresi hedefe yakındı.
+61,806,201,00:00:00,02:00:00,2025-07-05,2,Örnek sorular çözüldü.
+62,428,211,00:00:00,00:45:00,2025-07-25,1,Çalışma süresi hedefe yakındı.
+63,573,201,00:00:00,00:45:00,2026-10-17,1,Ders notları gözden geçirildi.
+64,483,206,00:00:00,00:30:00,2025-10-02,5,Örnek sorular çözüldü.
+65,328,208,00:00:00,02:00:00,2026-09-28,4,Zorlanılan konular tekrar edildi.
+66,566,207,00:00:00,00:40:00,2026-08-12,4,Bir sonraki çalışma için plan yapıldı.
+67,385,214,00:00:00,00:30:00,2025-09-20,1,Bir sonraki çalışma için plan yapıldı.
+68,514,215,00:00:00,00:25:00,2026-08-01,3,Bugünkü çalışma verimli geçti.
+69,183,211,00:00:00,00:45:00,2025-12-28,4,Çalışma süresi hedefe yakındı.
+70,187,211,00:00:00,00:40:00,2026-04-01,1,Çalışma süresi hedefe yakındı.
+71,210,216,00:00:00,01:15:00,2025-06-15,3,Quiz öncesi hazırlık yapıldı.
+72,832,214,00:00:00,00:30:00,2025-05-07,2,Ders notları gözden geçirildi.
+73,981,201,00:00:00,00:25:00,2026-03-07,3,Örnek sorular çözüldü.
+74,810,216,00:00:00,01:30:00,2025-10-01,2,Eksik konular belirlendi.
+75,698,213,00:00:00,01:30:00,2026-08-12,2,Örnek sorular çözüldü.
+76,32,204,00:00:00,00:45:00,2026-02-04,2,Odaklanma seviyesi orta düzeydeydi.
+77,434,206,00:00:00,00:25:00,2026-02-26,5,Ders notları gözden geçirildi.
+78,626,202,00:00:00,00:25:00,2026-01-26,1,Ders notları gözden geçirildi.
+79,17,213,00:00:00,01:15:00,2027-01-10,4,Çalışma süresi hedefe yakındı.
+80,208,209,00:00:00,00:30:00,2026-06-02,5,Zorlanılan konular tekrar edildi.
+81,521,215,00:00:00,01:30:00,2026-12-26,1,Quiz öncesi hazırlık yapıldı.
+82,333,213,00:00:00,01:30:00,2026-02-02,2,Ders notları gözden geçirildi.
+83,922,211,00:00:00,00:45:00,2025-09-06,3,Zorlanılan konular tekrar edildi.
+84,581,214,00:00:00,01:30:00,2026-11-09,3,Bir sonraki çalışma için plan yapıldı.
+85,523,208,00:00:00,00:25:00,2026-02-11,3,Quiz öncesi hazırlık yapıldı.
+86,343,201,00:00:00,00:40:00,2025-12-21,5,Zorlanılan konular tekrar edildi.
+87,142,216,00:00:00,00:30:00,2026-04-28,1,Eksik konular belirlendi.
+88,745,203,00:00:00,00:25:00,2026-03-05,2,Odaklanma seviyesi orta düzeydeydi.
+89,916,209,00:00:00,00:40:00,2026-10-01,4,Konu tekrarı yapıldı.
+90,392,201,00:00:00,00:25:00,2026-01-22,4,Konu tekrarı yapıldı.
+91,450,201,00:00:00,01:30:00,2026-12-12,4,Bugünkü çalışma verimli geçti.
+92,985,213,00:00:00,00:25:00,2026-02-08,5,Bugünkü çalışma verimli geçti.
+93,58,213,00:00:00,00:30:00,2025-05-28,4,Quiz öncesi hazırlık yapıldı.
+94,632,203,00:00:00,01:15:00,2026-11-15,5,Örnek sorular çözüldü.
+95,825,206,00:00:00,00:25:00,2026-12-20,2,Eksik konular belirlendi.
+96,7,215,00:00:00,00:30:00,2025-06-16,4,Örnek sorular çözüldü.
+97,88,210,00:00:00,02:00:00,2025-08-23,4,Zorlanılan konular tekrar edildi.
+98,89,210,00:00:00,01:15:00,2025-12-11,1,Zorlanılan konular tekrar edildi.
+99,128,215,00:00:00,00:25:00,2025-08-17,2,Bir sonraki çalışma için plan yapıldı.
+100,336,205,00:00:00,01:00:00,2025-07-31,4,Konu tekrarı yapıldı.
+101,992,200,00:00:00,00:30:00,2025-06-27,4,Çalışma süresi hedefe yakındı.
+102,406,210,00:00:00,00:45:00,2026-04-02,5,Quiz öncesi hazırlık yapıldı.
+103,858,210,00:00:00,01:15:00,2026-03-20,1,Ders notları gözden geçirildi.
+104,851,206,00:00:00,00:30:00,2025-12-09,1,Quiz öncesi hazırlık yapıldı.
+105,137,207,00:00:00,01:15:00,2025-11-30,1,Konu tekrarı yapıldı.
+106,667,207,00:00:00,01:00:00,2026-08-05,5,Çalışma süresi hedefe yakındı.
+107,897,204,00:00:00,02:00:00,2026-01-09,3,Eksik konular belirlendi.
+108,526,210,00:00:00,00:40:00,2026-10-18,5,Bugünkü çalışma verimli geçti.
+109,415,200,00:00:00,00:45:00,2025-07-26,4,Bir sonraki çalışma için plan yapıldı.
+110,726,213,00:00:00,00:45:00,2026-07-31,2,Quiz öncesi hazırlık yapıldı.
+111,296,216,00:00:00,01:15:00,2025-12-28,1,Zorlanılan konular tekrar edildi.
+112,214,215,00:00:00,01:30:00,2026-07-04,3,Quiz öncesi hazırlık yapıldı.
+113,456,210,00:00:00,00:45:00,2026-08-26,1,Odaklanma seviyesi orta düzeydeydi.
+114,40,210,00:00:00,00:25:00,2025-07-12,4,Bugünkü çalışma verimli geçti.
+115,533,211,00:00:00,00:40:00,2026-01-24,3,Konu tekrarı yapıldı.
+116,536,207,00:00:00,01:15:00,2026-05-21,1,Bugünkü çalışma verimli geçti.
+117,114,210,00:00:00,00:45:00,2025-11-15,1,Konu tekrarı yapıldı.
+118,441,210,00:00:00,00:30:00,2027-01-09,4,Bugünkü çalışma verimli geçti.
+119,731,206,00:00:00,01:30:00,2026-06-06,4,Zorlanılan konular tekrar edildi.
+120,410,211,00:00:00,00:30:00,2027-01-15,5,Ders notları gözden geçirildi.
+121,60,206,00:00:00,01:15:00,2026-05-02,5,Quiz öncesi hazırlık yapıldı.
+122,507,211,00:00:00,02:00:00,2025-09-08,4,Odaklanma seviyesi orta düzeydeydi.
+123,1,210,00:00:00,00:30:00,2026-01-09,3,Bir sonraki çalışma için plan yapıldı.
+124,528,201,00:00:00,00:45:00,2026-07-23,5,Örnek sorular çözüldü.
+125,272,203,00:00:00,01:30:00,2026-09-27,3,Konu tekrarı yapıldı.
+126,89,214,00:00:00,01:00:00,2025-05-28,3,Bir sonraki çalışma için plan yapıldı.
+127,408,209,00:00:00,00:25:00,2026-10-26,5,Çalışma süresi hedefe yakındı.
+128,843,212,00:00:00,01:15:00,2025-05-31,5,Zorlanılan konular tekrar edildi.
+129,370,211,00:00:00,00:30:00,2026-12-01,3,Eksik konular belirlendi.
+130,239,200,00:00:00,00:30:00,2027-01-07,4,Quiz öncesi hazırlık yapıldı.
+131,875,212,00:00:00,02:00:00,2026-04-24,5,Örnek sorular çözüldü.
+132,308,212,00:00:00,00:45:00,2026-07-16,4,Odaklanma seviyesi orta düzeydeydi.
+133,63,215,00:00:00,01:30:00,2026-03-05,2,Ders notları gözden geçirildi.
+134,746,213,00:00:00,00:45:00,2026-10-11,1,Quiz öncesi hazırlık yapıldı.
+135,428,209,00:00:00,00:25:00,2026-04-02,1,Bugünkü çalışma verimli geçti.
+136,344,216,00:00:00,01:30:00,2026-11-04,1,Bir sonraki çalışma için plan yapıldı.
+137,432,204,00:00:00,02:00:00,2026-11-09,4,Konu tekrarı yapıldı.
+138,930,200,00:00:00,00:40:00,2026-06-27,4,Bugünkü çalışma verimli geçti.
+139,666,210,00:00:00,01:15:00,2027-01-11,1,Ders notları gözden geçirildi.
+140,410,202,00:00:00,01:30:00,2025-12-01,2,Konu tekrarı yapıldı.
+141,791,206,00:00:00,02:00:00,2026-07-25,4,Konu tekrarı yapıldı.
+142,649,203,00:00:00,00:30:00,2025-07-24,3,Zorlanılan konular tekrar edildi.
+143,339,203,00:00:00,02:00:00,2025-08-11,3,Konu tekrarı yapıldı.
+144,819,211,00:00:00,01:00:00,2026-02-06,4,Ders notları gözden geçirildi.
+145,886,216,00:00:00,00:40:00,2025-07-03,4,Ders notları gözden geçirildi.
+146,695,213,00:00:00,01:30:00,2026-04-05,1,Zorlanılan konular tekrar edildi.
+147,281,216,00:00:00,00:40:00,2025-08-21,4,Eksik konular belirlendi.
+148,52,205,00:00:00,01:00:00,2026-01-12,4,Ders notları gözden geçirildi.
+149,773,214,00:00:00,01:15:00,2026-01-23,5,Çalışma süresi hedefe yakındı.
+150,109,203,00:00:00,00:25:00,2025-08-11,1,Odaklanma seviyesi orta düzeydeydi.
+151,656,209,00:00:00,02:00:00,2025-12-17,4,Zorlanılan konular tekrar edildi.
+152,484,212,00:00:00,01:00:00,2026-03-02,3,Eksik konular belirlendi.
+153,230,205,00:00:00,00:25:00,2026-11-27,4,Ders notları gözden geçirildi.
+154,826,212,00:00:00,02:00:00,2026-09-30,1,Konu tekrarı yapıldı.
+155,963,211,00:00:00,02:00:00,2026-05-13,4,Zorlanılan konular tekrar edildi.
+156,50,209,00:00:00,01:30:00,2025-12-22,2,Konu tekrarı yapıldı.
+157,933,208,00:00:00,00:45:00,2026-09-10,2,Konu tekrarı yapıldı.
+158,952,210,00:00:00,00:30:00,2026-12-08,4,Bugünkü çalışma verimli geçti.
+159,969,213,00:00:00,01:30:00,2026-06-12,5,Eksik konular belirlendi.
+160,906,213,00:00:00,00:45:00,2026-09-17,1,Zorlanılan konular tekrar edildi.
+161,155,209,00:00:00,00:45:00,2026-08-27,2,Bugünkü çalışma verimli geçti.
+162,30,204,00:00:00,02:00:00,2025-10-27,4,Çalışma süresi hedefe yakındı.
+163,987,204,00:00:00,00:45:00,2026-05-09,1,Odaklanma seviyesi orta düzeydeydi.
+164,964,204,00:00:00,02:00:00,2026-11-23,2,Bugünkü çalışma verimli geçti.
+165,66,204,00:00:00,00:30:00,2026-11-18,4,Zorlanılan konular tekrar edildi.
+166,537,212,00:00:00,00:30:00,2026-08-14,3,Bugünkü çalışma verimli geçti.
+167,507,200,00:00:00,01:15:00,2025-12-24,4,Konu tekrarı yapıldı.
+168,924,206,00:00:00,02:00:00,2026-10-04,5,Eksik konular belirlendi.
+169,86,208,00:00:00,00:40:00,2026-06-10,5,Bir sonraki çalışma için plan yapıldı.
+170,919,200,00:00:00,00:25:00,2026-04-21,4,Bugünkü çalışma verimli geçti.
+171,241,211,00:00:00,00:45:00,2026-04-07,1,Konu tekrarı yapıldı.
+172,951,204,00:00:00,02:00:00,2025-07-13,1,Quiz öncesi hazırlık yapıldı.
+173,330,212,00:00:00,00:40:00,2025-10-31,2,Örnek sorular çözüldü.
+174,469,208,00:00:00,00:40:00,2025-11-27,3,Konu tekrarı yapıldı.
+175,198,204,00:00:00,01:30:00,2026-04-04,3,Konu tekrarı yapıldı.
+176,654,213,00:00:00,01:30:00,2026-11-13,2,Quiz öncesi hazırlık yapıldı.
+177,241,211,00:00:00,02:00:00,2026-10-24,3,Odaklanma seviyesi orta düzeydeydi.
+178,251,216,00:00:00,00:40:00,2026-12-03,2,Çalışma süresi hedefe yakındı.
+179,405,214,00:00:00,00:30:00,2026-10-19,3,Bugünkü çalışma verimli geçti.
+180,485,201,00:00:00,00:25:00,2025-11-07,2,Örnek sorular çözüldü.
+181,6,214,00:00:00,00:25:00,2025-06-26,2,Quiz öncesi hazırlık yapıldı.
+182,898,215,00:00:00,00:25:00,2026-12-06,3,Örnek sorular çözüldü.
+183,455,205,00:00:00,00:45:00,2025-10-10,3,Bir sonraki çalışma için plan yapıldı.
+184,348,211,00:00:00,00:25:00,2026-04-06,1,Konu tekrarı yapıldı.
+185,433,214,00:00:00,00:40:00,2025-07-07,2,Örnek sorular çözüldü.
+186,63,200,00:00:00,02:00:00,2025-05-05,3,Ders notları gözden geçirildi.
+187,661,206,00:00:00,01:00:00,2026-01-19,5,Quiz öncesi hazırlık yapıldı.
+188,270,214,00:00:00,00:45:00,2026-09-26,3,Odaklanma seviyesi orta düzeydeydi.
+189,501,202,00:00:00,00:40:00,2025-05-21,1,Quiz öncesi hazırlık yapıldı.
+190,176,206,00:00:00,00:30:00,2025-10-16,2,Ders notları gözden geçirildi.
+191,554,201,00:00:00,02:00:00,2026-03-15,3,Ders notları gözden geçirildi.
+192,433,207,00:00:00,00:45:00,2026-04-08,1,Eksik konular belirlendi.
+193,257,206,00:00:00,01:30:00,2026-01-12,1,Odaklanma seviyesi orta düzeydeydi.
+194,328,203,00:00:00,01:30:00,2025-11-24,5,Odaklanma seviyesi orta düzeydeydi.
+195,433,204,00:00:00,00:45:00,2025-05-02,1,Bir sonraki çalışma için plan yapıldı.
+196,411,213,00:00:00,00:45:00,2025-11-28,4,Bugünkü çalışma verimli geçti.
+197,654,203,00:00:00,01:00:00,2026-04-03,2,Örnek sorular çözüldü.
+198,783,201,00:00:00,01:15:00,2025-05-09,3,Konu tekrarı yapıldı.
+199,389,202,00:00:00,01:00:00,2025-09-07,3,Odaklanma seviyesi orta düzeydeydi.
+200,541,207,00:00:00,01:00:00,2025-06-24,3,Örnek sorular çözüldü.
+201,228,208,00:00:00,01:00:00,2026-08-31,3,Örnek sorular çözüldü.
+202,911,211,00:00:00,01:30:00,2026-08-28,4,Bir sonraki çalışma için plan yapıldı.
+203,712,214,00:00:00,01:00:00,2025-11-02,1,Quiz öncesi hazırlık yapıldı.
+204,213,215,00:00:00,01:15:00,2026-05-10,2,Örnek sorular çözüldü.
+205,229,200,00:00:00,01:30:00,2026-12-16,4,Quiz öncesi hazırlık yapıldı.
+206,81,206,00:00:00,01:15:00,2026-01-04,3,Ders notları gözden geçirildi.
+207,360,205,00:00:00,00:45:00,2026-12-16,1,Çalışma süresi hedefe yakındı.
+208,999,203,00:00:00,00:40:00,2025-10-11,5,Örnek sorular çözüldü.
+209,823,209,00:00:00,01:30:00,2026-04-20,4,Odaklanma seviyesi orta düzeydeydi.
+210,132,209,00:00:00,01:15:00,2026-03-19,5,Bugünkü çalışma verimli geçti.
+211,614,213,00:00:00,00:45:00,2026-06-11,1,Bir sonraki çalışma için plan yapıldı.
+212,492,209,00:00:00,00:30:00,2025-06-23,3,Örnek sorular çözüldü.
+213,790,206,00:00:00,00:45:00,2026-05-28,5,Ders notları gözden geçirildi.
+214,439,204,00:00:00,01:00:00,2026-08-03,5,Örnek sorular çözüldü.
+215,112,201,00:00:00,00:25:00,2026-10-02,4,Eksik konular belirlendi.
+216,647,214,00:00:00,01:30:00,2026-04-18,4,Konu tekrarı yapıldı.
+217,848,206,00:00:00,01:00:00,2026-01-10,1,Ders notları gözden geçirildi.
+218,51,208,00:00:00,01:00:00,2025-08-10,1,Bir sonraki çalışma için plan yapıldı.
+219,832,215,00:00:00,02:00:00,2026-11-01,5,Bir sonraki çalışma için plan yapıldı.
+220,525,202,00:00:00,01:15:00,2026-03-25,1,Çalışma süresi hedefe yakındı.
+221,891,207,00:00:00,00:30:00,2026-03-03,5,Zorlanılan konular tekrar edildi.
+222,395,205,00:00:00,00:25:00,2026-04-09,2,Bugünkü çalışma verimli geçti.
+223,227,201,00:00:00,01:00:00,2025-05-05,4,Bir sonraki çalışma için plan yapıldı.
+224,533,213,00:00:00,01:15:00,2025-09-18,4,Örnek sorular çözüldü.
+225,638,203,00:00:00,00:25:00,2026-09-03,1,Quiz öncesi hazırlık yapıldı.
+226,31,202,00:00:00,00:25:00,2025-06-12,5,Quiz öncesi hazırlık yapıldı.
+227,266,208,00:00:00,01:00:00,2025-05-14,2,Çalışma süresi hedefe yakındı.
+228,635,202,00:00:00,00:25:00,2026-06-21,2,Eksik konular belirlendi.
+229,747,213,00:00:00,00:45:00,2026-07-07,2,Ders notları gözden geçirildi.
+230,494,203,00:00:00,01:15:00,2026-09-01,3,Quiz öncesi hazırlık yapıldı.
+231,866,211,00:00:00,00:40:00,2025-10-31,5,Ders notları gözden geçirildi.
+232,826,202,00:00:00,00:30:00,2025-09-13,3,Bir sonraki çalışma için plan yapıldı.
+233,978,204,00:00:00,01:30:00,2026-05-14,1,Bugünkü çalışma verimli geçti.
+234,520,208,00:00:00,01:15:00,2026-10-18,4,Ders notları gözden geçirildi.
+235,524,206,00:00:00,01:00:00,2025-12-29,3,Konu tekrarı yapıldı.
+236,12,204,00:00:00,00:40:00,2026-04-08,4,Zorlanılan konular tekrar edildi.
+237,83,205,00:00:00,01:15:00,2026-12-20,2,Örnek sorular çözüldü.
+238,551,205,00:00:00,00:40:00,2026-03-08,5,Ders notları gözden geçirildi.
+239,454,205,00:00:00,00:30:00,2026-05-29,1,Örnek sorular çözüldü.
+240,47,211,00:00:00,02:00:00,2026-01-29,2,Bir sonraki çalışma için plan yapıldı.
+241,547,214,00:00:00,01:00:00,2026-04-20,1,Odaklanma seviyesi orta düzeydeydi.
+242,567,205,00:00:00,00:30:00,2025-12-03,1,Zorlanılan konular tekrar edildi.
+243,579,205,00:00:00,00:40:00,2026-01-05,1,Zorlanılan konular tekrar edildi.
+244,21,215,00:00:00,00:30:00,2026-02-07,4,Bugünkü çalışma verimli geçti.
+245,627,205,00:00:00,00:40:00,2026-09-30,3,Konu tekrarı yapıldı.
+246,422,208,00:00:00,00:30:00,2026-10-15,3,Konu tekrarı yapıldı.
+247,381,204,00:00:00,01:00:00,2026-03-10,1,Çalışma süresi hedefe yakındı.
+248,749,203,00:00:00,00:40:00,2026-01-09,5,Odaklanma seviyesi orta düzeydeydi.
+249,905,212,00:00:00,00:40:00,2026-12-21,3,Zorlanılan konular tekrar edildi.
+250,960,210,00:00:00,01:00:00,2026-08-30,3,Eksik konular belirlendi.
+251,96,216,00:00:00,00:45:00,2026-09-30,4,Odaklanma seviyesi orta düzeydeydi.
+252,64,213,00:00:00,00:45:00,2025-11-19,2,Bir sonraki çalışma için plan yapıldı.
+253,460,204,00:00:00,00:25:00,2026-08-28,1,Quiz öncesi hazırlık yapıldı.
+254,265,211,00:00:00,00:25:00,2026-06-20,4,Bugünkü çalışma verimli geçti.
+255,117,212,00:00:00,00:40:00,2025-05-21,2,Ders notları gözden geçirildi.
+256,720,209,00:00:00,00:25:00,2025-12-10,5,Ders notları gözden geçirildi.
+257,872,204,00:00:00,00:30:00,2025-09-29,2,Eksik konular belirlendi.
+258,683,206,00:00:00,00:30:00,2026-11-11,3,Konu tekrarı yapıldı.
+259,578,215,00:00:00,00:25:00,2025-12-10,5,Bir sonraki çalışma için plan yapıldı.
+260,341,211,00:00:00,02:00:00,2025-10-03,3,Bir sonraki çalışma için plan yapıldı.
+261,189,203,00:00:00,00:45:00,2025-09-13,1,Bir sonraki çalışma için plan yapıldı.
+262,509,213,00:00:00,00:30:00,2026-07-22,2,Quiz öncesi hazırlık yapıldı.
+263,300,202,00:00:00,00:40:00,2026-12-01,1,Bugünkü çalışma verimli geçti.
+264,776,216,00:00:00,00:45:00,2025-08-27,3,Bir sonraki çalışma için plan yapıldı.
+265,858,213,00:00:00,02:00:00,2026-07-30,5,Odaklanma seviyesi orta düzeydeydi.
+266,890,215,00:00:00,01:00:00,2026-12-17,4,Bir sonraki çalışma için plan yapıldı.
+267,418,207,00:00:00,00:40:00,2027-01-01,1,Örnek sorular çözüldü.
+268,48,203,00:00:00,01:00:00,2025-05-29,5,Çalışma süresi hedefe yakındı.
+269,277,204,00:00:00,02:00:00,2026-03-05,2,Zorlanılan konular tekrar edildi.
+270,341,204,00:00:00,00:45:00,2025-10-24,3,Örnek sorular çözüldü.
+271,385,215,00:00:00,02:00:00,2025-06-11,2,Ders notları gözden geçirildi.
+272,416,203,00:00:00,01:00:00,2025-05-14,2,Konu tekrarı yapıldı.
+273,677,204,00:00:00,00:45:00,2026-10-10,5,Konu tekrarı yapıldı.
+274,130,208,00:00:00,00:40:00,2025-07-31,3,Bir sonraki çalışma için plan yapıldı.
+275,225,215,00:00:00,02:00:00,2026-04-06,5,Quiz öncesi hazırlık yapıldı.
+276,32,201,00:00:00,00:25:00,2025-07-14,2,Zorlanılan konular tekrar edildi.
+277,794,205,00:00:00,00:30:00,2026-06-23,3,Konu tekrarı yapıldı.
+278,634,216,00:00:00,02:00:00,2026-02-16,1,Ders notları gözden geçirildi.
+279,500,215,00:00:00,00:30:00,2026-04-02,3,Konu tekrarı yapıldı.
+280,253,216,00:00:00,00:25:00,2025-12-17,2,Eksik konular belirlendi.
+281,430,214,00:00:00,01:00:00,2026-09-16,1,Bugünkü çalışma verimli geçti.
+282,597,207,00:00:00,00:40:00,2026-09-09,5,Bir sonraki çalışma için plan yapıldı.
+283,170,201,00:00:00,00:40:00,2025-10-20,2,Bir sonraki çalışma için plan yapıldı.
+284,376,214,00:00:00,00:25:00,2026-01-05,3,Zorlanılan konular tekrar edildi.
+285,558,213,00:00:00,02:00:00,2026-02-03,4,Konu tekrarı yapıldı.
+286,247,206,00:00:00,01:00:00,2025-10-08,5,Bir sonraki çalışma için plan yapıldı.
+287,387,213,00:00:00,00:40:00,2026-09-15,1,Çalışma süresi hedefe yakındı.
+288,902,216,00:00:00,00:25:00,2025-11-18,1,Bugünkü çalışma verimli geçti.
+289,11,203,00:00:00,01:00:00,2026-11-07,1,Örnek sorular çözüldü.
+290,840,209,00:00:00,00:45:00,2026-02-18,1,Örnek sorular çözüldü.
+291,939,211,00:00:00,00:40:00,2025-07-25,3,Çalışma süresi hedefe yakındı.
+292,822,201,00:00:00,02:00:00,2025-09-03,3,Örnek sorular çözüldü.
+293,706,212,00:00:00,00:45:00,2026-11-28,3,Eksik konular belirlendi.
+294,458,209,00:00:00,02:00:00,2025-08-26,5,Odaklanma seviyesi orta düzeydeydi.
+295,932,204,00:00:00,01:30:00,2025-09-25,5,Bir sonraki çalışma için plan yapıldı.
+296,571,206,00:00:00,01:15:00,2026-02-20,2,Eksik konular belirlendi.
+297,568,211,00:00:00,02:00:00,2026-03-28,2,Bugünkü çalışma verimli geçti.
+298,76,201,00:00:00,01:15:00,2026-08-09,3,Konu tekrarı yapıldı.
+299,838,204,00:00:00,02:00:00,2027-01-08,4,Konu tekrarı yapıldı.
+300,583,213,00:00:00,01:00:00,2025-12-11,3,Zorlanılan konular tekrar edildi.
+301,489,202,00:00:00,00:30:00,2025-09-01,2,Bugünkü çalışma verimli geçti.
+302,970,202,00:00:00,01:30:00,2025-09-30,3,Zorlanılan konular tekrar edildi.
+303,5,200,00:00:00,00:25:00,2025-12-07,4,Konu tekrarı yapıldı.
+304,168,202,00:00:00,01:30:00,2026-11-20,4,Çalışma süresi hedefe yakındı.
+305,888,215,00:00:00,02:00:00,2026-12-19,2,Bir sonraki çalışma için plan yapıldı.
+306,802,208,00:00:00,00:30:00,2025-06-19,5,Odaklanma seviyesi orta düzeydeydi.
+307,50,216,00:00:00,00:30:00,2025-07-26,5,Çalışma süresi hedefe yakındı.
+308,653,200,00:00:00,00:45:00,2027-01-01,4,Odaklanma seviyesi orta düzeydeydi.
+309,90,202,00:00:00,00:25:00,2026-07-20,3,Ders notları gözden geçirildi.
+310,879,213,00:00:00,01:00:00,2025-08-10,3,Çalışma süresi hedefe yakındı.
+311,44,215,00:00:00,00:40:00,2026-01-01,1,Bugünkü çalışma verimli geçti.
+312,851,208,00:00:00,00:40:00,2026-09-08,5,Bir sonraki çalışma için plan yapıldı.
+313,203,213,00:00:00,00:45:00,2025-07-25,4,Konu tekrarı yapıldı.
+314,684,203,00:00:00,00:30:00,2026-07-26,4,Konu tekrarı yapıldı.
+315,910,204,00:00:00,00:25:00,2025-08-26,3,Bugünkü çalışma verimli geçti.
+316,314,211,00:00:00,01:15:00,2026-08-23,4,Çalışma süresi hedefe yakındı.
+317,778,204,00:00:00,01:15:00,2026-04-01,2,Eksik konular belirlendi.
+318,453,207,00:00:00,01:15:00,2026-09-23,2,Zorlanılan konular tekrar edildi.
+319,935,208,00:00:00,00:40:00,2025-09-12,4,Odaklanma seviyesi orta düzeydeydi.
+320,44,207,00:00:00,00:40:00,2026-12-19,4,Çalışma süresi hedefe yakındı.
+321,26,202,00:00:00,02:00:00,2026-04-26,2,Bugünkü çalışma verimli geçti.
+322,752,202,00:00:00,01:00:00,2026-07-21,4,Örnek sorular çözüldü.
+323,918,200,00:00:00,01:30:00,2026-09-02,5,Örnek sorular çözüldü.
+324,607,210,00:00:00,01:30:00,2026-06-13,1,Bir sonraki çalışma için plan yapıldı.
+325,277,203,00:00:00,01:00:00,2026-05-06,4,Quiz öncesi hazırlık yapıldı.
+326,958,209,00:00:00,02:00:00,2026-02-16,5,Konu tekrarı yapıldı.
+327,43,211,00:00:00,00:25:00,2026-10-16,4,Bugünkü çalışma verimli geçti.
+328,804,204,00:00:00,01:30:00,2026-09-12,1,Odaklanma seviyesi orta düzeydeydi.
+329,867,209,00:00:00,00:30:00,2026-01-31,1,Ders notları gözden geçirildi.
+330,23,202,00:00:00,00:25:00,2026-12-12,3,Örnek sorular çözüldü.
+331,712,202,00:00:00,01:00:00,2025-10-09,4,Eksik konular belirlendi.
+332,714,206,00:00:00,01:30:00,2026-11-24,4,Örnek sorular çözüldü.
+333,622,212,00:00:00,01:15:00,2026-10-27,2,Bir sonraki çalışma için plan yapıldı.
+334,761,200,00:00:00,00:30:00,2025-08-11,3,Bugünkü çalışma verimli geçti.
+335,458,203,00:00:00,01:15:00,2025-07-26,3,Odaklanma seviyesi orta düzeydeydi.
+336,602,216,00:00:00,00:40:00,2025-09-19,1,Çalışma süresi hedefe yakındı.
+337,693,211,00:00:00,00:40:00,2026-09-26,1,Örnek sorular çözüldü.
+338,696,210,00:00:00,00:25:00,2025-11-28,2,Çalışma süresi hedefe yakındı.
+339,653,212,00:00:00,00:30:00,2025-05-06,2,Çalışma süresi hedefe yakındı.
+340,299,215,00:00:00,00:45:00,2026-11-29,3,Bugünkü çalışma verimli geçti.
+341,685,201,00:00:00,02:00:00,2026-03-07,5,Quiz öncesi hazırlık yapıldı.
+342,139,202,00:00:00,02:00:00,2026-12-16,3,Quiz öncesi hazırlık yapıldı.
+343,713,201,00:00:00,02:00:00,2026-04-16,4,Bugünkü çalışma verimli geçti.
+344,391,200,00:00:00,01:30:00,2026-04-02,2,Örnek sorular çözüldü.
+345,833,207,00:00:00,00:45:00,2026-04-16,1,Odaklanma seviyesi orta düzeydeydi.
+346,861,213,00:00:00,01:00:00,2026-02-09,3,Quiz öncesi hazırlık yapıldı.
+347,100,209,00:00:00,01:15:00,2025-09-14,2,Örnek sorular çözüldü.
+348,340,200,00:00:00,00:30:00,2026-03-30,2,Eksik konular belirlendi.
+349,572,216,00:00:00,00:45:00,2026-01-23,3,Konu tekrarı yapıldı.
+350,315,215,00:00:00,02:00:00,2026-08-06,4,Bugünkü çalışma verimli geçti.
+351,429,209,00:00:00,02:00:00,2026-06-05,3,Quiz öncesi hazırlık yapıldı.
+352,821,200,00:00:00,02:00:00,2025-05-31,3,Bugünkü çalışma verimli geçti.
+353,713,211,00:00:00,00:30:00,2026-10-10,4,Ders notları gözden geçirildi.
+354,463,215,00:00:00,00:45:00,2025-06-02,4,Çalışma süresi hedefe yakındı.
+355,977,204,00:00:00,02:00:00,2025-12-18,1,Quiz öncesi hazırlık yapıldı.
+356,824,204,00:00:00,01:15:00,2025-05-13,3,Eksik konular belirlendi.
+357,13,207,00:00:00,01:15:00,2026-07-27,1,Ders notları gözden geçirildi.
+358,265,207,00:00:00,01:30:00,2026-06-03,1,Bugünkü çalışma verimli geçti.
+359,271,208,00:00:00,00:45:00,2026-12-25,3,Odaklanma seviyesi orta düzeydeydi.
+360,747,213,00:00:00,01:15:00,2025-09-13,2,Örnek sorular çözüldü.
+361,222,209,00:00:00,00:40:00,2026-12-16,3,Odaklanma seviyesi orta düzeydeydi.
+362,869,207,00:00:00,01:15:00,2026-12-25,4,Eksik konular belirlendi.
+363,501,213,00:00:00,00:40:00,2025-11-22,2,Bugünkü çalışma verimli geçti.
+364,606,205,00:00:00,00:25:00,2026-12-18,1,Örnek sorular çözüldü.
+365,237,215,00:00:00,00:40:00,2026-01-05,1,Bugünkü çalışma verimli geçti.
+366,360,205,00:00:00,00:45:00,2026-01-14,1,Ders notları gözden geçirildi.
+367,724,212,00:00:00,00:30:00,2026-07-16,1,Çalışma süresi hedefe yakındı.
+368,519,208,00:00:00,00:30:00,2026-10-23,3,Eksik konular belirlendi.
+369,479,210,00:00:00,02:00:00,2025-09-07,5,Zorlanılan konular tekrar edildi.
+370,512,215,00:00:00,01:30:00,2025-05-06,5,Quiz öncesi hazırlık yapıldı.
+371,451,211,00:00:00,01:30:00,2025-06-01,5,Eksik konular belirlendi.
+372,718,215,00:00:00,01:30:00,2026-11-04,5,Eksik konular belirlendi.
+373,76,210,00:00:00,01:00:00,2026-01-02,4,Eksik konular belirlendi.
+374,311,211,00:00:00,00:25:00,2026-07-13,2,Eksik konular belirlendi.
+375,508,205,00:00:00,01:30:00,2026-01-01,4,Eksik konular belirlendi.
+376,785,210,00:00:00,00:45:00,2026-02-11,4,Çalışma süresi hedefe yakındı.
+377,14,216,00:00:00,00:40:00,2026-10-18,4,Konu tekrarı yapıldı.
+378,362,205,00:00:00,00:25:00,2026-05-08,5,Örnek sorular çözüldü.
+379,737,216,00:00:00,01:15:00,2026-07-30,3,Ders notları gözden geçirildi.
+380,835,214,00:00:00,01:15:00,2025-07-21,1,Zorlanılan konular tekrar edildi.
+381,794,202,00:00:00,01:15:00,2025-08-26,2,Bir sonraki çalışma için plan yapıldı.
+382,410,203,00:00:00,00:30:00,2026-01-18,5,Zorlanılan konular tekrar edildi.
+383,106,215,00:00:00,01:00:00,2026-05-20,3,Zorlanılan konular tekrar edildi.
+384,484,204,00:00:00,00:40:00,2026-10-06,5,Örnek sorular çözüldü.
+385,692,213,00:00:00,00:40:00,2026-09-13,5,Ders notları gözden geçirildi.
+386,907,202,00:00:00,00:40:00,2025-12-24,2,Quiz öncesi hazırlık yapıldı.
+387,964,213,00:00:00,00:45:00,2026-07-20,3,Eksik konular belirlendi.
+388,526,204,00:00:00,00:40:00,2026-05-17,1,Bir sonraki çalışma için plan yapıldı.
+389,163,200,00:00:00,00:45:00,2026-06-08,4,Çalışma süresi hedefe yakındı.
+390,667,215,00:00:00,00:40:00,2025-06-04,1,Quiz öncesi hazırlık yapıldı.
+391,238,211,00:00:00,00:30:00,2026-07-30,5,Zorlanılan konular tekrar edildi.
+392,956,200,00:00:00,00:40:00,2026-02-08,2,Eksik konular belirlendi.
+393,145,200,00:00:00,00:25:00,2027-01-07,5,Çalışma süresi hedefe yakındı.
+394,536,215,00:00:00,00:25:00,2026-02-22,1,Quiz öncesi hazırlık yapıldı.
+395,232,201,00:00:00,01:15:00,2026-07-26,1,Zorlanılan konular tekrar edildi.
+396,25,210,00:00:00,00:25:00,2026-08-04,5,Örnek sorular çözüldü.
+397,811,213,00:00:00,00:25:00,2026-10-21,2,Ders notları gözden geçirildi.
+398,536,211,00:00:00,00:45:00,2025-12-12,4,Ders notları gözden geçirildi.
+399,278,203,00:00:00,00:45:00,2026-05-06,4,Quiz öncesi hazırlık yapıldı.
+400,364,211,00:00:00,00:25:00,2027-01-10,2,Çalışma süresi hedefe yakındı.
+401,616,210,00:00:00,02:00:00,2026-01-04,4,Konu tekrarı yapıldı.
+402,950,201,00:00:00,01:00:00,2025-07-21,2,Bugünkü çalışma verimli geçti.
+403,230,202,00:00:00,00:25:00,2026-10-25,3,Bir sonraki çalışma için plan yapıldı.
+404,431,206,00:00:00,00:30:00,2025-05-21,3,Konu tekrarı yapıldı.
+405,668,206,00:00:00,00:45:00,2027-01-13,1,Quiz öncesi hazırlık yapıldı.
+406,892,208,00:00:00,00:40:00,2025-11-02,5,Konu tekrarı yapıldı.
+407,275,201,00:00:00,00:30:00,2026-11-26,5,Bir sonraki çalışma için plan yapıldı.
+408,506,200,00:00:00,01:15:00,2026-07-06,1,Eksik konular belirlendi.
+409,605,207,00:00:00,00:45:00,2025-10-18,5,Quiz öncesi hazırlık yapıldı.
+410,369,212,00:00:00,00:45:00,2025-08-26,2,Quiz öncesi hazırlık yapıldı.
+411,997,205,00:00:00,00:30:00,2026-02-11,3,Quiz öncesi hazırlık yapıldı.
+412,70,201,00:00:00,00:25:00,2026-01-13,2,Eksik konular belirlendi.
+413,177,212,00:00:00,00:45:00,2026-03-28,2,Örnek sorular çözüldü.
+414,108,215,00:00:00,02:00:00,2026-01-27,2,Quiz öncesi hazırlık yapıldı.
+415,189,216,00:00:00,00:45:00,2025-08-02,3,Ders notları gözden geçirildi.
+416,934,213,00:00:00,01:15:00,2026-05-27,2,Konu tekrarı yapıldı.
+417,884,214,00:00:00,01:30:00,2027-01-09,4,Quiz öncesi hazırlık yapıldı.
+418,483,210,00:00:00,00:25:00,2025-05-31,4,Bir sonraki çalışma için plan yapıldı.
+419,713,206,00:00:00,01:30:00,2025-05-08,3,Konu tekrarı yapıldı.
+420,676,204,00:00:00,00:45:00,2027-01-07,3,Bugünkü çalışma verimli geçti.
+421,489,208,00:00:00,00:30:00,2025-09-12,1,Konu tekrarı yapıldı.
+422,208,205,00:00:00,02:00:00,2026-07-04,4,Çalışma süresi hedefe yakındı.
+423,154,213,00:00:00,00:45:00,2025-08-17,4,Zorlanılan konular tekrar edildi.
+424,62,216,00:00:00,00:30:00,2025-11-18,4,Bugünkü çalışma verimli geçti.
+425,160,211,00:00:00,00:45:00,2025-10-26,1,Çalışma süresi hedefe yakındı.
+426,967,213,00:00:00,01:00:00,2025-12-18,5,Odaklanma seviyesi orta düzeydeydi.
+427,185,203,00:00:00,00:25:00,2025-07-09,3,Örnek sorular çözüldü.
+428,768,214,00:00:00,01:00:00,2026-05-16,4,Zorlanılan konular tekrar edildi.
+429,305,204,00:00:00,00:30:00,2025-11-28,5,Bir sonraki çalışma için plan yapıldı.
+430,795,208,00:00:00,00:25:00,2025-06-17,5,Quiz öncesi hazırlık yapıldı.
+431,570,203,00:00:00,01:30:00,2026-06-21,1,Eksik konular belirlendi.
+432,183,215,00:00:00,02:00:00,2026-08-28,2,Eksik konular belirlendi.
+433,59,204,00:00:00,00:45:00,2026-01-29,1,Bir sonraki çalışma için plan yapıldı.
+434,31,216,00:00:00,00:40:00,2026-05-03,1,Bugünkü çalışma verimli geçti.
+435,795,204,00:00:00,00:25:00,2025-11-30,1,Konu tekrarı yapıldı.
+436,93,208,00:00:00,00:40:00,2026-10-20,4,Eksik konular belirlendi.
+437,5,211,00:00:00,00:45:00,2026-07-28,1,Zorlanılan konular tekrar edildi.
+438,465,200,00:00:00,00:30:00,2025-12-26,2,Ders notları gözden geçirildi.
+439,913,216,00:00:00,02:00:00,2025-07-17,3,Odaklanma seviyesi orta düzeydeydi.
+440,362,212,00:00:00,01:30:00,2026-03-07,5,Örnek sorular çözüldü.
+441,453,206,00:00:00,01:00:00,2025-06-02,3,Bir sonraki çalışma için plan yapıldı.
+442,975,216,00:00:00,01:15:00,2026-03-19,5,Zorlanılan konular tekrar edildi.
+443,549,202,00:00:00,00:45:00,2025-06-06,3,Ders notları gözden geçirildi.
+444,322,205,00:00:00,01:00:00,2026-07-09,1,Quiz öncesi hazırlık yapıldı.
+445,759,210,00:00:00,00:25:00,2026-03-12,2,Çalışma süresi hedefe yakındı.
+446,978,205,00:00:00,00:40:00,2026-10-28,3,Eksik konular belirlendi.
+447,368,204,00:00:00,00:30:00,2027-01-12,5,Zorlanılan konular tekrar edildi.
+448,420,205,00:00:00,02:00:00,2026-04-02,2,Eksik konular belirlendi.
+449,337,212,00:00:00,01:15:00,2026-05-19,4,Eksik konular belirlendi.
+450,445,216,00:00:00,00:25:00,2026-09-23,5,Bugünkü çalışma verimli geçti.
+451,946,205,00:00:00,00:45:00,2026-09-02,5,Quiz öncesi hazırlık yapıldı.
+452,285,201,00:00:00,01:00:00,2026-07-08,3,Çalışma süresi hedefe yakındı.
+453,388,206,00:00:00,00:40:00,2025-07-22,2,Çalışma süresi hedefe yakındı.
+454,297,204,00:00:00,00:40:00,2026-09-02,1,Örnek sorular çözüldü.
+455,598,205,00:00:00,01:30:00,2025-07-11,2,Konu tekrarı yapıldı.
+456,76,208,00:00:00,00:45:00,2025-09-03,2,Çalışma süresi hedefe yakındı.
+457,86,210,00:00:00,01:00:00,2025-11-13,1,Örnek sorular çözüldü.
+458,362,216,00:00:00,01:15:00,2025-08-16,2,Zorlanılan konular tekrar edildi.
+459,238,203,00:00:00,02:00:00,2026-08-28,5,Zorlanılan konular tekrar edildi.
+460,473,207,00:00:00,00:40:00,2026-12-23,1,Çalışma süresi hedefe yakındı.
+461,676,203,00:00:00,00:40:00,2026-10-08,4,Quiz öncesi hazırlık yapıldı.
+462,802,214,00:00:00,00:30:00,2026-09-10,1,Ders notları gözden geçirildi.
+463,439,208,00:00:00,00:30:00,2026-10-20,5,Odaklanma seviyesi orta düzeydeydi.
+464,712,210,00:00:00,00:40:00,2025-11-30,5,Odaklanma seviyesi orta düzeydeydi.
+465,758,209,00:00:00,01:00:00,2025-10-14,3,Çalışma süresi hedefe yakındı.
+466,455,213,00:00:00,00:40:00,2026-05-23,5,Bugünkü çalışma verimli geçti.
+467,223,215,00:00:00,02:00:00,2025-06-15,2,Çalışma süresi hedefe yakındı.
+468,801,214,00:00:00,00:45:00,2026-05-30,5,Ders notları gözden geçirildi.
+469,991,209,00:00:00,00:25:00,2025-08-29,4,Ders notları gözden geçirildi.
+470,272,205,00:00:00,02:00:00,2025-12-29,3,Çalışma süresi hedefe yakındı.
+471,28,213,00:00:00,00:45:00,2026-08-01,3,Quiz öncesi hazırlık yapıldı.
+472,45,204,00:00:00,00:45:00,2026-05-24,1,Quiz öncesi hazırlık yapıldı.
+473,526,208,00:00:00,00:30:00,2026-05-19,1,Eksik konular belirlendi.
+474,965,210,00:00:00,01:30:00,2025-10-02,2,Eksik konular belirlendi.
+475,574,211,00:00:00,01:00:00,2026-09-03,3,Bugünkü çalışma verimli geçti.
+476,549,210,00:00:00,00:45:00,2025-07-18,2,Eksik konular belirlendi.
+477,64,216,00:00:00,00:40:00,2026-01-04,1,Bir sonraki çalışma için plan yapıldı.
+478,675,202,00:00:00,00:25:00,2026-01-24,1,Odaklanma seviyesi orta düzeydeydi.
+479,3,215,00:00:00,00:45:00,2026-06-27,2,Odaklanma seviyesi orta düzeydeydi.
+480,142,206,00:00:00,01:15:00,2026-06-15,5,Zorlanılan konular tekrar edildi.
+481,704,200,00:00:00,00:40:00,2026-03-13,5,Zorlanılan konular tekrar edildi.
+482,369,201,00:00:00,00:40:00,2026-01-07,2,Ders notları gözden geçirildi.
+483,105,213,00:00:00,01:30:00,2025-07-09,4,Ders notları gözden geçirildi.
+484,461,208,00:00:00,01:15:00,2026-06-21,2,Odaklanma seviyesi orta düzeydeydi.
+485,396,200,00:00:00,00:30:00,2025-08-02,1,Odaklanma seviyesi orta düzeydeydi.
+486,814,200,00:00:00,00:30:00,2026-02-24,3,Çalışma süresi hedefe yakındı.
+487,158,205,00:00:00,00:25:00,2025-05-27,3,Çalışma süresi hedefe yakındı.
+488,677,207,00:00:00,02:00:00,2026-11-02,2,Ders notları gözden geçirildi.
+489,680,209,00:00:00,00:45:00,2025-08-27,2,Örnek sorular çözüldü.
+490,397,209,00:00:00,01:15:00,2026-01-03,1,Çalışma süresi hedefe yakındı.
+491,820,213,00:00:00,00:25:00,2025-05-25,3,Quiz öncesi hazırlık yapıldı.
+492,707,207,00:00:00,00:40:00,2026-09-29,3,Eksik konular belirlendi.
+493,815,210,00:00:00,00:40:00,2025-10-22,4,Bir sonraki çalışma için plan yapıldı.
+494,558,206,00:00:00,00:40:00,2026-08-23,4,Ders notları gözden geçirildi.
+495,189,211,00:00:00,00:45:00,2025-11-24,5,Örnek sorular çözüldü.
+496,987,205,00:00:00,02:00:00,2026-09-18,3,Zorlanılan konular tekrar edildi.
+497,900,213,00:00:00,00:45:00,2025-09-26,2,Örnek sorular çözüldü.
+498,502,211,00:00:00,00:45:00,2026-01-29,3,Quiz öncesi hazırlık yapıldı.
+499,661,202,00:00:00,00:40:00,2025-09-23,2,Ders notları gözden geçirildi.
+500,969,208,00:00:00,02:00:00,2026-02-06,4,Odaklanma seviyesi orta düzeydeydi.
+501,972,206,00:00:00,00:45:00,2025-06-29,5,Ders notları gözden geçirildi.
+502,938,200,00:00:00,00:30:00,2025-10-25,2,Çalışma süresi hedefe yakındı.
+503,620,213,00:00:00,01:30:00,2025-10-06,2,Eksik konular belirlendi.
+504,491,207,00:00:00,01:30:00,2026-05-10,1,Odaklanma seviyesi orta düzeydeydi.
+505,972,209,00:00:00,00:40:00,2025-08-14,3,Odaklanma seviyesi orta düzeydeydi.
+506,8,215,00:00:00,01:30:00,2026-01-25,2,Konu tekrarı yapıldı.
+507,446,205,00:00:00,00:30:00,2026-03-26,5,Örnek sorular çözüldü.
+508,195,209,00:00:00,01:30:00,2026-09-23,3,Ders notları gözden geçirildi.
+509,611,200,00:00:00,00:40:00,2026-02-26,3,Zorlanılan konular tekrar edildi.
+510,107,208,00:00:00,01:15:00,2026-05-31,1,Quiz öncesi hazırlık yapıldı.
+511,70,206,00:00:00,00:25:00,2025-10-07,2,Ders notları gözden geçirildi.
+512,694,207,00:00:00,02:00:00,2025-08-01,4,Ders notları gözden geçirildi.
+513,846,203,00:00:00,00:25:00,2026-11-22,1,Bir sonraki çalışma için plan yapıldı.
+514,911,212,00:00:00,00:40:00,2026-03-01,5,Eksik konular belirlendi.
+515,566,201,00:00:00,01:30:00,2025-05-18,4,Quiz öncesi hazırlık yapıldı.
+516,66,211,00:00:00,01:15:00,2025-10-29,1,Bir sonraki çalışma için plan yapıldı.
+517,89,213,00:00:00,00:45:00,2025-09-24,1,Örnek sorular çözüldü.
+518,253,200,00:00:00,00:40:00,2026-06-13,4,Zorlanılan konular tekrar edildi.
+519,56,214,00:00:00,01:00:00,2026-06-29,4,Konu tekrarı yapıldı.
+520,647,213,00:00:00,01:00:00,2026-06-22,2,Eksik konular belirlendi.
+521,782,216,00:00:00,01:00:00,2025-10-12,1,Ders notları gözden geçirildi.
+522,203,201,00:00:00,00:30:00,2026-02-24,1,Odaklanma seviyesi orta düzeydeydi.
+523,501,205,00:00:00,00:30:00,2026-03-07,1,Quiz öncesi hazırlık yapıldı.
+524,518,206,00:00:00,01:30:00,2025-10-17,1,Eksik konular belirlendi.
+525,57,212,00:00:00,01:00:00,2025-10-27,4,Konu tekrarı yapıldı.
+526,880,206,00:00:00,00:40:00,2025-08-17,4,Örnek sorular çözüldü.
+527,476,214,00:00:00,01:30:00,2025-10-06,2,Konu tekrarı yapıldı.
+528,275,205,00:00:00,00:30:00,2025-09-19,2,Quiz öncesi hazırlık yapıldı.
+529,600,208,00:00:00,01:00:00,2026-02-11,4,Quiz öncesi hazırlık yapıldı.
+530,392,208,00:00:00,00:30:00,2025-07-12,3,Ders notları gözden geçirildi.
+531,156,200,00:00:00,02:00:00,2026-01-27,2,Zorlanılan konular tekrar edildi.
+532,324,201,00:00:00,00:25:00,2025-08-24,1,Çalışma süresi hedefe yakındı.
+533,751,209,00:00:00,00:45:00,2025-10-30,1,Eksik konular belirlendi.
+534,649,211,00:00:00,01:00:00,2025-11-23,1,Bir sonraki çalışma için plan yapıldı.
+535,956,200,00:00:00,01:15:00,2026-05-11,2,Bugünkü çalışma verimli geçti.
+536,571,206,00:00:00,00:45:00,2025-05-14,1,Bir sonraki çalışma için plan yapıldı.
+537,926,208,00:00:00,00:25:00,2026-12-30,2,Zorlanılan konular tekrar edildi.
+538,528,213,00:00:00,00:45:00,2026-06-05,1,Quiz öncesi hazırlık yapıldı.
+539,536,204,00:00:00,01:00:00,2025-11-21,5,Çalışma süresi hedefe yakındı.
+540,205,213,00:00:00,01:00:00,2026-07-22,4,Bugünkü çalışma verimli geçti.
+541,626,201,00:00:00,00:45:00,2025-11-25,2,Odaklanma seviyesi orta düzeydeydi.
+542,509,211,00:00:00,01:30:00,2026-10-10,5,Bir sonraki çalışma için plan yapıldı.
+543,757,203,00:00:00,00:25:00,2026-01-07,3,Quiz öncesi hazırlık yapıldı.
+544,937,207,00:00:00,01:15:00,2025-06-30,2,Quiz öncesi hazırlık yapıldı.
+545,477,209,00:00:00,01:30:00,2026-02-23,4,Bir sonraki çalışma için plan yapıldı.
+546,960,205,00:00:00,00:40:00,2025-05-02,3,Odaklanma seviyesi orta düzeydeydi.
+547,584,208,00:00:00,00:25:00,2025-12-05,1,Bir sonraki çalışma için plan yapıldı.
+548,847,211,00:00:00,01:15:00,2025-05-27,5,Bir sonraki çalışma için plan yapıldı.
+549,915,212,00:00:00,00:40:00,2025-12-02,2,Bugünkü çalışma verimli geçti.
+550,819,201,00:00:00,00:40:00,2026-10-29,2,Zorlanılan konular tekrar edildi.
+551,819,206,00:00:00,01:15:00,2025-09-10,1,Örnek sorular çözüldü.
+552,144,206,00:00:00,01:30:00,2025-05-20,3,Örnek sorular çözüldü.
+553,133,212,00:00:00,00:40:00,2026-01-15,2,Çalışma süresi hedefe yakındı.
+554,455,204,00:00:00,01:30:00,2026-03-25,4,Bir sonraki çalışma için plan yapıldı.
+555,220,211,00:00:00,00:40:00,2025-11-15,5,Odaklanma seviyesi orta düzeydeydi.
+556,967,210,00:00:00,01:00:00,2025-05-31,3,Örnek sorular çözüldü.
+557,784,203,00:00:00,00:40:00,2026-03-10,2,Bir sonraki çalışma için plan yapıldı.
+558,41,201,00:00:00,01:00:00,2025-08-11,4,Odaklanma seviyesi orta düzeydeydi.
+559,378,200,00:00:00,00:40:00,2025-08-01,5,Örnek sorular çözüldü.
+560,94,206,00:00:00,01:00:00,2026-03-25,3,Eksik konular belirlendi.
+561,607,202,00:00:00,01:00:00,2025-11-21,3,Zorlanılan konular tekrar edildi.
+562,414,202,00:00:00,00:40:00,2026-04-15,1,Bugünkü çalışma verimli geçti.
+563,923,202,00:00:00,00:25:00,2026-04-09,2,Eksik konular belirlendi.
+564,514,205,00:00:00,00:40:00,2026-04-18,5,Quiz öncesi hazırlık yapıldı.
+565,446,216,00:00:00,00:30:00,2026-12-01,4,Zorlanılan konular tekrar edildi.
+566,905,215,00:00:00,00:30:00,2026-08-22,3,Zorlanılan konular tekrar edildi.
+567,648,211,00:00:00,02:00:00,2026-08-25,5,Odaklanma seviyesi orta düzeydeydi.
+568,233,202,00:00:00,00:25:00,2025-05-25,2,Quiz öncesi hazırlık yapıldı.
+569,654,204,00:00:00,00:40:00,2025-12-08,2,Bugünkü çalışma verimli geçti.
+570,107,213,00:00:00,00:45:00,2026-09-03,2,Ders notları gözden geçirildi.
+571,268,212,00:00:00,00:25:00,2025-12-19,5,Quiz öncesi hazırlık yapıldı.
+572,243,208,00:00:00,02:00:00,2026-09-13,3,Bir sonraki çalışma için plan yapıldı.
+573,462,211,00:00:00,01:30:00,2027-01-08,1,Çalışma süresi hedefe yakındı.
+574,155,206,00:00:00,01:15:00,2025-08-20,2,Ders notları gözden geçirildi.
+575,108,209,00:00:00,00:25:00,2026-12-09,1,Çalışma süresi hedefe yakındı.
+576,100,206,00:00:00,02:00:00,2025-10-18,5,Ders notları gözden geçirildi.
+577,735,208,00:00:00,01:15:00,2026-03-19,1,Ders notları gözden geçirildi.
+578,463,203,00:00:00,00:40:00,2026-05-04,4,Bir sonraki çalışma için plan yapıldı.
+579,996,210,00:00:00,01:15:00,2025-05-20,3,Konu tekrarı yapıldı.
+580,499,201,00:00:00,01:00:00,2025-09-27,4,Örnek sorular çözüldü.
+581,826,215,00:00:00,01:00:00,2025-11-10,2,Bugünkü çalışma verimli geçti.
+582,444,200,00:00:00,01:00:00,2026-04-07,5,Odaklanma seviyesi orta düzeydeydi.
+583,574,201,00:00:00,00:45:00,2025-08-07,2,Odaklanma seviyesi orta düzeydeydi.
+584,909,216,00:00:00,02:00:00,2025-09-06,3,Çalışma süresi hedefe yakındı.
+585,380,201,00:00:00,02:00:00,2026-06-04,3,Quiz öncesi hazırlık yapıldı.
+586,235,203,00:00:00,00:30:00,2026-01-10,3,Konu tekrarı yapıldı.
+587,981,210,00:00:00,01:00:00,2026-05-23,2,Bir sonraki çalışma için plan yapıldı.
+588,636,208,00:00:00,01:00:00,2026-04-04,2,Bir sonraki çalışma için plan yapıldı.
+589,970,214,00:00:00,01:30:00,2025-08-11,2,Örnek sorular çözüldü.
+590,16,200,00:00:00,00:45:00,2025-12-23,2,Zorlanılan konular tekrar edildi.
+591,932,209,00:00:00,02:00:00,2026-01-20,5,Bir sonraki çalışma için plan yapıldı.
+592,62,215,00:00:00,00:25:00,2026-06-25,1,Örnek sorular çözüldü.
+593,205,200,00:00:00,01:15:00,2025-06-26,5,Bir sonraki çalışma için plan yapıldı.
+594,305,215,00:00:00,02:00:00,2025-07-24,5,Bir sonraki çalışma için plan yapıldı.
+595,228,208,00:00:00,00:40:00,2026-10-11,3,Örnek sorular çözüldü.
+596,61,216,00:00:00,01:15:00,2026-06-04,1,Ders notları gözden geçirildi.
+597,94,205,00:00:00,01:00:00,2026-04-08,5,Quiz öncesi hazırlık yapıldı.
+598,182,207,00:00:00,01:30:00,2026-09-22,4,Çalışma süresi hedefe yakındı.
+599,124,206,00:00:00,00:40:00,2025-12-15,4,Ders notları gözden geçirildi.
+600,793,215,00:00:00,01:30:00,2025-10-02,4,Ders notları gözden geçirildi.
+601,134,205,00:00:00,00:40:00,2026-09-17,2,Bugünkü çalışma verimli geçti.
+602,369,210,00:00:00,00:25:00,2026-12-06,4,Bugünkü çalışma verimli geçti.
+603,800,211,00:00:00,00:25:00,2026-07-20,3,Eksik konular belirlendi.
+604,793,203,00:00:00,01:15:00,2025-11-20,5,Quiz öncesi hazırlık yapıldı.
+605,935,213,00:00:00,00:25:00,2025-05-09,3,Eksik konular belirlendi.
+606,634,213,00:00:00,01:30:00,2025-08-18,4,Quiz öncesi hazırlık yapıldı.
+607,608,204,00:00:00,01:00:00,2026-10-31,5,Quiz öncesi hazırlık yapıldı.
+608,270,209,00:00:00,01:30:00,2026-11-15,3,Odaklanma seviyesi orta düzeydeydi.
+609,175,203,00:00:00,00:25:00,2026-05-28,5,Bir sonraki çalışma için plan yapıldı.
+610,432,210,00:00:00,01:30:00,2026-12-17,2,Quiz öncesi hazırlık yapıldı.
+611,47,214,00:00:00,01:00:00,2026-10-31,5,Ders notları gözden geçirildi.
+612,719,213,00:00:00,01:30:00,2026-04-26,1,Odaklanma seviyesi orta düzeydeydi.
+613,929,201,00:00:00,02:00:00,2026-11-13,3,Bir sonraki çalışma için plan yapıldı.
+614,448,207,00:00:00,01:00:00,2025-12-21,3,Quiz öncesi hazırlık yapıldı.
+615,11,214,00:00:00,01:00:00,2025-11-03,3,Konu tekrarı yapıldı.
+616,564,200,00:00:00,00:25:00,2025-10-21,5,Çalışma süresi hedefe yakındı.
+617,245,200,00:00:00,00:25:00,2025-12-15,2,Eksik konular belirlendi.
+618,972,212,00:00:00,01:00:00,2026-10-06,4,Ders notları gözden geçirildi.
+619,611,200,00:00:00,01:00:00,2025-08-14,3,Konu tekrarı yapıldı.
+620,340,206,00:00:00,01:15:00,2026-10-20,2,Zorlanılan konular tekrar edildi.
+621,90,213,00:00:00,00:25:00,2025-11-29,5,Örnek sorular çözüldü.
+622,623,208,00:00:00,01:30:00,2025-07-25,4,Örnek sorular çözüldü.
+623,773,203,00:00:00,01:15:00,2025-07-27,2,Quiz öncesi hazırlık yapıldı.
+624,546,212,00:00:00,00:30:00,2026-12-04,3,Konu tekrarı yapıldı.
+625,238,210,00:00:00,01:30:00,2026-12-11,1,Konu tekrarı yapıldı.
+626,618,209,00:00:00,00:40:00,2026-10-02,2,Konu tekrarı yapıldı.
+627,173,213,00:00:00,01:00:00,2026-03-18,1,Konu tekrarı yapıldı.
+628,900,209,00:00:00,00:40:00,2025-10-30,5,Bir sonraki çalışma için plan yapıldı.
+629,633,207,00:00:00,00:30:00,2025-07-29,4,Konu tekrarı yapıldı.
+630,213,201,00:00:00,00:25:00,2026-07-05,2,Quiz öncesi hazırlık yapıldı.
+631,771,206,00:00:00,01:00:00,2026-03-26,4,Odaklanma seviyesi orta düzeydeydi.
+632,578,216,00:00:00,01:15:00,2026-06-07,5,Bir sonraki çalışma için plan yapıldı.
+633,521,207,00:00:00,01:30:00,2026-04-14,1,Quiz öncesi hazırlık yapıldı.
+634,514,204,00:00:00,01:30:00,2026-09-09,3,Eksik konular belirlendi.
+635,179,207,00:00:00,02:00:00,2026-01-28,4,Ders notları gözden geçirildi.
+636,620,212,00:00:00,00:45:00,2025-05-24,3,Konu tekrarı yapıldı.
+637,953,214,00:00:00,00:40:00,2025-07-01,2,Bugünkü çalışma verimli geçti.
+638,810,215,00:00:00,00:45:00,2025-11-18,5,Bir sonraki çalışma için plan yapıldı.
+639,179,213,00:00:00,02:00:00,2026-12-20,4,Zorlanılan konular tekrar edildi.
+640,246,216,00:00:00,00:45:00,2027-01-06,5,Bir sonraki çalışma için plan yapıldı.
+641,709,205,00:00:00,01:15:00,2025-09-28,2,Eksik konular belirlendi.
+642,726,208,00:00:00,00:30:00,2026-07-31,5,Çalışma süresi hedefe yakındı.
+643,436,213,00:00:00,02:00:00,2026-05-10,4,Zorlanılan konular tekrar edildi.
+644,253,213,00:00:00,00:25:00,2026-05-16,5,Ders notları gözden geçirildi.
+645,320,205,00:00:00,00:40:00,2026-09-23,2,Bir sonraki çalışma için plan yapıldı.
+646,518,214,00:00:00,00:40:00,2026-08-25,4,Odaklanma seviyesi orta düzeydeydi.
+647,150,213,00:00:00,00:25:00,2026-02-15,5,Bir sonraki çalışma için plan yapıldı.
+648,929,211,00:00:00,00:30:00,2026-08-31,2,Ders notları gözden geçirildi.
+649,363,216,00:00:00,01:15:00,2026-09-07,4,Ders notları gözden geçirildi.
+650,396,200,00:00:00,01:30:00,2025-09-10,2,Bir sonraki çalışma için plan yapıldı.
+651,353,209,00:00:00,01:00:00,2025-05-21,1,Bugünkü çalışma verimli geçti.
+652,20,201,00:00:00,02:00:00,2026-11-17,4,Odaklanma seviyesi orta düzeydeydi.
+653,130,203,00:00:00,01:30:00,2026-01-31,4,Ders notları gözden geçirildi.
+654,222,209,00:00:00,00:45:00,2025-11-12,2,Eksik konular belirlendi.
+655,770,204,00:00:00,00:25:00,2026-02-18,3,Zorlanılan konular tekrar edildi.
+656,652,216,00:00:00,00:40:00,2025-12-02,5,Odaklanma seviyesi orta düzeydeydi.
+657,555,209,00:00:00,00:30:00,2026-06-27,5,Örnek sorular çözüldü.
+658,470,210,00:00:00,01:15:00,2026-04-14,2,Konu tekrarı yapıldı.
+659,734,216,00:00:00,01:30:00,2026-09-23,4,Çalışma süresi hedefe yakındı.
+660,98,201,00:00:00,02:00:00,2025-12-08,2,Bir sonraki çalışma için plan yapıldı.
+661,276,213,00:00:00,00:25:00,2026-07-25,5,Quiz öncesi hazırlık yapıldı.
+662,346,216,00:00:00,01:15:00,2025-12-14,4,Ders notları gözden geçirildi.
+663,212,200,00:00:00,01:15:00,2025-09-22,5,Quiz öncesi hazırlık yapıldı.
+664,754,213,00:00:00,01:15:00,2026-12-10,5,Zorlanılan konular tekrar edildi.
+665,62,209,00:00:00,00:45:00,2025-12-19,4,Zorlanılan konular tekrar edildi.
+666,939,203,00:00:00,02:00:00,2026-12-15,4,Eksik konular belirlendi.
+667,295,210,00:00:00,01:00:00,2025-12-08,1,Çalışma süresi hedefe yakındı.
+668,473,215,00:00:00,00:40:00,2025-05-26,3,Bugünkü çalışma verimli geçti.
+669,712,209,00:00:00,00:45:00,2026-09-10,1,Bugünkü çalışma verimli geçti.
+670,978,215,00:00:00,01:00:00,2026-03-04,3,Çalışma süresi hedefe yakındı.
+671,724,209,00:00:00,01:00:00,2026-05-26,1,Bugünkü çalışma verimli geçti.
+672,768,207,00:00:00,00:30:00,2027-01-12,5,Çalışma süresi hedefe yakındı.
+673,56,203,00:00:00,02:00:00,2026-02-27,4,Zorlanılan konular tekrar edildi.
+674,31,206,00:00:00,02:00:00,2025-08-22,3,Zorlanılan konular tekrar edildi.
+675,648,212,00:00:00,01:15:00,2026-03-17,5,Odaklanma seviyesi orta düzeydeydi.
+676,399,213,00:00:00,00:40:00,2026-02-12,2,Örnek sorular çözüldü.
+677,324,200,00:00:00,02:00:00,2026-04-21,4,Bir sonraki çalışma için plan yapıldı.
+678,51,216,00:00:00,01:15:00,2026-07-15,2,Bir sonraki çalışma için plan yapıldı.
+679,170,200,00:00:00,02:00:00,2026-09-19,2,Konu tekrarı yapıldı.
+680,466,215,00:00:00,01:15:00,2026-09-04,2,Bir sonraki çalışma için plan yapıldı.
+681,410,202,00:00:00,01:00:00,2026-08-24,3,Ders notları gözden geçirildi.
+682,299,204,00:00:00,01:00:00,2026-02-19,4,Odaklanma seviyesi orta düzeydeydi.
+683,776,207,00:00:00,00:30:00,2025-07-31,3,Bir sonraki çalışma için plan yapıldı.
+684,309,210,00:00:00,01:30:00,2026-07-07,5,Odaklanma seviyesi orta düzeydeydi.
+685,562,214,00:00:00,00:25:00,2025-09-10,4,Bugünkü çalışma verimli geçti.
+686,421,210,00:00:00,00:45:00,2026-04-20,5,Quiz öncesi hazırlık yapıldı.
+687,909,213,00:00:00,01:30:00,2025-05-02,2,Örnek sorular çözüldü.
+688,695,214,00:00:00,00:25:00,2025-05-05,5,Örnek sorular çözüldü.
+689,290,200,00:00:00,02:00:00,2025-10-22,2,Örnek sorular çözüldü.
+690,353,207,00:00:00,00:45:00,2026-01-16,3,Örnek sorular çözüldü.
+691,243,207,00:00:00,01:00:00,2026-07-23,5,Ders notları gözden geçirildi.
+692,404,210,00:00:00,01:15:00,2026-03-23,2,Eksik konular belirlendi.
+693,931,205,00:00:00,01:30:00,2026-10-19,3,Bugünkü çalışma verimli geçti.
+694,495,202,00:00:00,00:45:00,2026-11-24,1,Zorlanılan konular tekrar edildi.
+695,674,204,00:00:00,02:00:00,2025-11-19,2,Bugünkü çalışma verimli geçti.
+696,566,206,00:00:00,01:15:00,2026-03-03,4,Konu tekrarı yapıldı.
+697,920,208,00:00:00,02:00:00,2026-04-25,4,Ders notları gözden geçirildi.
+698,69,213,00:00:00,01:00:00,2026-09-29,2,Bir sonraki çalışma için plan yapıldı.
+699,709,206,00:00:00,00:40:00,2025-06-10,2,Bir sonraki çalışma için plan yapıldı.
+700,428,206,00:00:00,01:30:00,2026-12-31,5,Eksik konular belirlendi.
+701,677,215,00:00:00,00:45:00,2025-07-22,1,Odaklanma seviyesi orta düzeydeydi.
+702,751,211,00:00:00,01:30:00,2026-07-24,4,Bugünkü çalışma verimli geçti.
+703,581,204,00:00:00,00:40:00,2026-02-28,5,Quiz öncesi hazırlık yapıldı.
+704,54,204,00:00:00,00:45:00,2025-05-29,4,Odaklanma seviyesi orta düzeydeydi.
+705,495,216,00:00:00,02:00:00,2026-06-24,4,Çalışma süresi hedefe yakındı.
+706,813,208,00:00:00,00:40:00,2026-05-12,1,Odaklanma seviyesi orta düzeydeydi.
+707,26,202,00:00:00,00:40:00,2026-08-25,4,Konu tekrarı yapıldı.
+708,980,204,00:00:00,00:25:00,2026-02-17,4,Çalışma süresi hedefe yakındı.
+709,62,205,00:00:00,00:40:00,2025-09-01,5,Çalışma süresi hedefe yakındı.
+710,1,214,00:00:00,00:25:00,2025-10-30,3,Örnek sorular çözüldü.
+711,551,211,00:00:00,00:40:00,2025-08-31,5,Bir sonraki çalışma için plan yapıldı.
+712,146,204,00:00:00,02:00:00,2025-08-05,3,Eksik konular belirlendi.
+713,830,216,00:00:00,00:25:00,2027-01-03,1,Zorlanılan konular tekrar edildi.
+714,786,200,00:00:00,00:25:00,2025-11-06,3,Quiz öncesi hazırlık yapıldı.
+715,106,210,00:00:00,01:15:00,2027-01-12,2,Bir sonraki çalışma için plan yapıldı.
+716,602,215,00:00:00,00:25:00,2025-05-18,2,Eksik konular belirlendi.
+717,296,214,00:00:00,01:30:00,2026-11-10,1,Odaklanma seviyesi orta düzeydeydi.
+718,832,211,00:00:00,01:30:00,2025-07-28,5,Bugünkü çalışma verimli geçti.
+719,409,206,00:00:00,00:30:00,2025-08-27,1,Odaklanma seviyesi orta düzeydeydi.
+720,260,203,00:00:00,00:30:00,2025-12-28,3,Zorlanılan konular tekrar edildi.
+721,528,200,00:00:00,01:30:00,2026-04-14,2,Ders notları gözden geçirildi.
+722,636,205,00:00:00,01:30:00,2025-06-26,1,Çalışma süresi hedefe yakındı.
+723,488,208,00:00:00,01:15:00,2025-11-04,5,Çalışma süresi hedefe yakındı.
+724,883,207,00:00:00,01:15:00,2026-06-05,2,Bir sonraki çalışma için plan yapıldı.
+725,30,216,00:00:00,00:25:00,2025-11-25,2,Bir sonraki çalışma için plan yapıldı.
+726,207,216,00:00:00,01:15:00,2026-12-15,4,Ders notları gözden geçirildi.
+727,543,203,00:00:00,00:45:00,2025-11-14,2,Eksik konular belirlendi.
+728,285,209,00:00:00,02:00:00,2026-12-18,5,Quiz öncesi hazırlık yapıldı.
+729,603,207,00:00:00,01:30:00,2025-12-07,3,Zorlanılan konular tekrar edildi.
+730,192,216,00:00:00,00:45:00,2026-08-12,4,Quiz öncesi hazırlık yapıldı.
+731,313,208,00:00:00,01:15:00,2026-07-21,5,Çalışma süresi hedefe yakındı.
+732,711,215,00:00:00,00:40:00,2025-07-20,3,Ders notları gözden geçirildi.
+733,802,212,00:00:00,00:30:00,2025-11-09,2,Quiz öncesi hazırlık yapıldı.
+734,726,206,00:00:00,00:40:00,2026-09-02,2,Quiz öncesi hazırlık yapıldı.
+735,477,207,00:00:00,01:30:00,2026-05-14,1,Bugünkü çalışma verimli geçti.
+736,463,216,00:00:00,01:00:00,2025-07-05,2,Odaklanma seviyesi orta düzeydeydi.
+737,490,213,00:00:00,00:45:00,2026-10-24,4,Odaklanma seviyesi orta düzeydeydi.
+738,190,211,00:00:00,01:30:00,2026-02-23,5,Çalışma süresi hedefe yakındı.
+739,745,200,00:00:00,01:15:00,2026-08-19,5,Bir sonraki çalışma için plan yapıldı.
+740,225,206,00:00:00,01:00:00,2026-10-31,2,Quiz öncesi hazırlık yapıldı.
+741,156,201,00:00:00,00:25:00,2026-11-10,2,Çalışma süresi hedefe yakındı.
+742,727,214,00:00:00,02:00:00,2026-09-14,1,Ders notları gözden geçirildi.
+743,425,210,00:00:00,01:00:00,2026-01-27,4,Konu tekrarı yapıldı.
+744,582,202,00:00:00,00:25:00,2025-11-04,5,Konu tekrarı yapıldı.
+745,545,206,00:00:00,00:30:00,2026-05-02,1,Quiz öncesi hazırlık yapıldı.
+746,669,201,00:00:00,00:30:00,2025-11-07,4,Örnek sorular çözüldü.
+747,732,204,00:00:00,01:15:00,2026-01-27,4,Quiz öncesi hazırlık yapıldı.
+748,668,200,00:00:00,01:30:00,2025-06-24,2,Odaklanma seviyesi orta düzeydeydi.
+749,622,211,00:00:00,00:25:00,2025-12-27,1,Quiz öncesi hazırlık yapıldı.
+750,306,203,00:00:00,01:30:00,2025-06-10,5,Odaklanma seviyesi orta düzeydeydi.
+751,219,216,00:00:00,01:00:00,2026-06-17,1,Ders notları gözden geçirildi.
+752,165,200,00:00:00,01:30:00,2025-08-08,2,Ders notları gözden geçirildi.
+753,686,208,00:00:00,01:30:00,2025-07-27,5,Odaklanma seviyesi orta düzeydeydi.
+754,398,204,00:00:00,02:00:00,2026-03-10,4,Bugünkü çalışma verimli geçti.
+755,741,214,00:00:00,00:40:00,2026-06-20,3,Odaklanma seviyesi orta düzeydeydi.
+756,567,200,00:00:00,02:00:00,2025-05-30,3,Örnek sorular çözüldü.
+757,912,204,00:00:00,00:40:00,2026-04-06,3,Örnek sorular çözüldü.
+758,204,201,00:00:00,00:45:00,2025-10-31,2,Ders notları gözden geçirildi.
+759,435,213,00:00:00,01:30:00,2026-01-24,5,Çalışma süresi hedefe yakındı.
+760,435,202,00:00:00,00:30:00,2026-02-16,5,Zorlanılan konular tekrar edildi.
+761,609,202,00:00:00,01:00:00,2026-07-06,3,Bir sonraki çalışma için plan yapıldı.
+762,326,212,00:00:00,00:25:00,2026-04-16,1,Odaklanma seviyesi orta düzeydeydi.
+763,499,209,00:00:00,01:30:00,2026-12-10,1,Odaklanma seviyesi orta düzeydeydi.
+764,159,213,00:00:00,01:00:00,2026-03-11,4,Odaklanma seviyesi orta düzeydeydi.
+765,157,212,00:00:00,01:00:00,2026-03-29,5,Konu tekrarı yapıldı.
+766,915,200,00:00:00,01:30:00,2026-07-10,3,Çalışma süresi hedefe yakındı.
+767,123,205,00:00:00,00:30:00,2025-05-27,1,Odaklanma seviyesi orta düzeydeydi.
+768,678,209,00:00:00,00:40:00,2026-05-25,3,Bugünkü çalışma verimli geçti.
+769,807,209,00:00:00,01:30:00,2026-12-28,1,Odaklanma seviyesi orta düzeydeydi.
+770,624,216,00:00:00,01:30:00,2026-06-03,3,Bir sonraki çalışma için plan yapıldı.
+771,448,203,00:00:00,01:30:00,2026-09-06,3,Eksik konular belirlendi.
+772,932,201,00:00:00,01:15:00,2026-01-10,3,Çalışma süresi hedefe yakındı.
+773,598,214,00:00:00,00:30:00,2026-03-12,3,Örnek sorular çözüldü.
+774,64,216,00:00:00,01:30:00,2025-07-18,5,Çalışma süresi hedefe yakındı.
+775,671,200,00:00:00,01:00:00,2026-05-08,4,Örnek sorular çözüldü.
+776,372,214,00:00:00,01:30:00,2025-06-28,1,Ders notları gözden geçirildi.
+777,342,201,00:00:00,01:15:00,2025-09-03,5,Bir sonraki çalışma için plan yapıldı.
+778,611,200,00:00:00,00:40:00,2026-03-21,4,Odaklanma seviyesi orta düzeydeydi.
+779,834,209,00:00:00,00:25:00,2025-09-15,2,Bir sonraki çalışma için plan yapıldı.
+780,828,215,00:00:00,02:00:00,2025-09-26,4,Zorlanılan konular tekrar edildi.
+781,574,214,00:00:00,00:40:00,2025-10-02,3,Bir sonraki çalışma için plan yapıldı.
+782,490,211,00:00:00,01:00:00,2027-01-02,4,Konu tekrarı yapıldı.
+783,411,216,00:00:00,00:45:00,2026-11-28,3,Çalışma süresi hedefe yakındı.
+784,332,204,00:00:00,01:00:00,2026-05-21,3,Zorlanılan konular tekrar edildi.
+785,619,206,00:00:00,00:45:00,2025-05-30,5,Quiz öncesi hazırlık yapıldı.
+786,783,206,00:00:00,02:00:00,2026-10-01,1,Zorlanılan konular tekrar edildi.
+787,896,203,00:00:00,01:00:00,2025-08-09,1,Bir sonraki çalışma için plan yapıldı.
+788,97,211,00:00:00,00:45:00,2026-05-20,5,Quiz öncesi hazırlık yapıldı.
+789,735,212,00:00:00,01:30:00,2026-09-16,3,Bugünkü çalışma verimli geçti.
+790,176,207,00:00:00,01:00:00,2025-06-07,1,Eksik konular belirlendi.
+791,883,201,00:00:00,01:00:00,2026-09-14,1,Ders notları gözden geçirildi.
+792,9,207,00:00:00,00:45:00,2026-07-10,4,Eksik konular belirlendi.
+793,794,214,00:00:00,02:00:00,2025-08-02,2,Bir sonraki çalışma için plan yapıldı.
+794,194,216,00:00:00,00:45:00,2025-07-19,3,Konu tekrarı yapıldı.
+795,423,206,00:00:00,00:45:00,2026-10-25,5,Konu tekrarı yapıldı.
+796,245,213,00:00:00,02:00:00,2026-07-09,4,Odaklanma seviyesi orta düzeydeydi.
+797,954,208,00:00:00,00:45:00,2025-08-29,2,Örnek sorular çözüldü.
+798,693,201,00:00:00,01:15:00,2026-06-22,3,Çalışma süresi hedefe yakındı.
+799,693,213,00:00:00,00:30:00,2026-07-15,1,Çalışma süresi hedefe yakındı.
+800,189,208,00:00:00,00:40:00,2026-11-09,3,Odaklanma seviyesi orta düzeydeydi.
+801,72,202,00:00:00,01:15:00,2026-02-24,4,Eksik konular belirlendi.
+802,129,214,00:00:00,01:00:00,2025-05-17,1,Örnek sorular çözüldü.
+803,549,205,00:00:00,00:40:00,2025-10-21,1,Örnek sorular çözüldü.
+804,583,201,00:00:00,00:45:00,2026-10-13,1,Zorlanılan konular tekrar edildi.
+805,57,216,00:00:00,02:00:00,2026-04-24,2,Konu tekrarı yapıldı.
+806,655,200,00:00:00,02:00:00,2026-03-06,1,Odaklanma seviyesi orta düzeydeydi.
+807,526,213,00:00:00,00:25:00,2025-10-15,5,Bugünkü çalışma verimli geçti.
+808,888,216,00:00:00,00:45:00,2025-08-13,4,Quiz öncesi hazırlık yapıldı.
+809,352,201,00:00:00,02:00:00,2026-09-30,3,Ders notları gözden geçirildi.
+810,389,211,00:00:00,01:30:00,2025-05-15,3,Bugünkü çalışma verimli geçti.
+811,485,208,00:00:00,01:15:00,2026-02-04,5,Bir sonraki çalışma için plan yapıldı.
+812,359,206,00:00:00,01:30:00,2026-05-31,5,Çalışma süresi hedefe yakındı.
+813,943,208,00:00:00,00:30:00,2026-05-02,3,Eksik konular belirlendi.
+814,322,212,00:00:00,00:30:00,2025-06-24,2,Ders notları gözden geçirildi.
+815,413,216,00:00:00,01:15:00,2026-06-08,1,Zorlanılan konular tekrar edildi.
+816,74,205,00:00:00,01:00:00,2025-10-10,5,Bir sonraki çalışma için plan yapıldı.
+817,515,208,00:00:00,01:15:00,2026-09-17,2,Ders notları gözden geçirildi.
+818,437,216,00:00:00,01:30:00,2026-09-07,5,Ders notları gözden geçirildi.
+819,60,206,00:00:00,01:15:00,2025-07-10,2,Çalışma süresi hedefe yakındı.
+820,951,215,00:00:00,01:15:00,2026-06-28,1,Konu tekrarı yapıldı.
+821,750,201,00:00:00,01:30:00,2025-11-08,5,Konu tekrarı yapıldı.
+822,475,202,00:00:00,01:15:00,2026-08-13,1,Quiz öncesi hazırlık yapıldı.
+823,603,214,00:00:00,00:45:00,2025-08-18,4,Bir sonraki çalışma için plan yapıldı.
+824,467,209,00:00:00,01:30:00,2026-05-08,2,Zorlanılan konular tekrar edildi.
+825,604,200,00:00:00,00:45:00,2025-06-25,5,Bugünkü çalışma verimli geçti.
+826,754,211,00:00:00,00:40:00,2026-07-09,1,Ders notları gözden geçirildi.
+827,932,214,00:00:00,00:30:00,2026-04-01,2,Bugünkü çalışma verimli geçti.
+828,251,203,00:00:00,00:25:00,2025-10-20,1,Ders notları gözden geçirildi.
+829,806,215,00:00:00,00:45:00,2026-10-20,2,Çalışma süresi hedefe yakındı.
+830,990,206,00:00:00,01:00:00,2026-02-05,2,Odaklanma seviyesi orta düzeydeydi.
+831,780,203,00:00:00,01:30:00,2025-12-26,1,Konu tekrarı yapıldı.
+832,557,201,00:00:00,01:30:00,2026-08-23,1,Örnek sorular çözüldü.
+833,90,208,00:00:00,00:45:00,2026-12-05,4,Quiz öncesi hazırlık yapıldı.
+834,330,204,00:00:00,01:00:00,2026-02-11,5,Konu tekrarı yapıldı.
+835,353,208,00:00:00,00:30:00,2025-09-07,4,Bir sonraki çalışma için plan yapıldı.
+836,885,202,00:00:00,00:45:00,2026-11-30,1,Zorlanılan konular tekrar edildi.
+837,603,212,00:00:00,01:15:00,2025-09-20,3,Bugünkü çalışma verimli geçti.
+838,540,211,00:00:00,00:25:00,2025-12-13,5,Konu tekrarı yapıldı.
+839,238,205,00:00:00,00:45:00,2026-08-18,2,Çalışma süresi hedefe yakındı.
+840,82,202,00:00:00,01:00:00,2025-11-18,2,Bugünkü çalışma verimli geçti.
+841,160,209,00:00:00,01:00:00,2025-07-11,5,Ders notları gözden geçirildi.
+842,852,204,00:00:00,00:40:00,2025-10-20,4,Zorlanılan konular tekrar edildi.
+843,490,205,00:00:00,00:40:00,2025-07-28,1,Zorlanılan konular tekrar edildi.
+844,277,205,00:00:00,00:40:00,2025-09-04,2,Odaklanma seviyesi orta düzeydeydi.
+845,521,204,00:00:00,01:00:00,2025-07-21,3,Quiz öncesi hazırlık yapıldı.
+846,478,205,00:00:00,01:30:00,2025-07-20,1,Ders notları gözden geçirildi.
+847,10,214,00:00:00,01:30:00,2026-02-18,3,Odaklanma seviyesi orta düzeydeydi.
+848,119,200,00:00:00,02:00:00,2025-12-28,1,Odaklanma seviyesi orta düzeydeydi.
+849,959,209,00:00:00,00:40:00,2026-07-09,2,Örnek sorular çözüldü.
+850,114,207,00:00:00,00:30:00,2026-10-18,3,Konu tekrarı yapıldı.
+851,348,210,00:00:00,00:45:00,2026-09-26,1,Eksik konular belirlendi.
+852,243,209,00:00:00,00:25:00,2025-11-28,4,Ders notları gözden geçirildi.
+853,906,203,00:00:00,01:15:00,2025-10-31,4,Bugünkü çalışma verimli geçti.
+854,934,205,00:00:00,01:30:00,2025-05-31,4,Eksik konular belirlendi.
+855,451,206,00:00:00,00:30:00,2026-12-25,4,Ders notları gözden geçirildi.
+856,118,208,00:00:00,01:15:00,2026-10-20,4,Konu tekrarı yapıldı.
+857,788,210,00:00:00,00:30:00,2026-02-04,1,Bir sonraki çalışma için plan yapıldı.
+858,122,208,00:00:00,01:30:00,2026-01-23,5,Konu tekrarı yapıldı.
+859,519,209,00:00:00,00:45:00,2026-08-31,1,Zorlanılan konular tekrar edildi.
+860,349,204,00:00:00,00:25:00,2026-10-26,3,Zorlanılan konular tekrar edildi.
+861,847,207,00:00:00,00:40:00,2025-11-21,4,Eksik konular belirlendi.
+862,385,208,00:00:00,00:30:00,2026-07-11,2,Bir sonraki çalışma için plan yapıldı.
+863,777,213,00:00:00,02:00:00,2026-04-27,3,Örnek sorular çözüldü.
+864,684,209,00:00:00,01:30:00,2025-05-14,5,Eksik konular belirlendi.
+865,174,208,00:00:00,00:45:00,2026-12-16,5,Konu tekrarı yapıldı.
+866,874,205,00:00:00,01:00:00,2026-03-08,2,Ders notları gözden geçirildi.
+867,694,212,00:00:00,00:40:00,2026-04-04,3,Quiz öncesi hazırlık yapıldı.
+868,7,206,00:00:00,00:45:00,2025-11-29,4,Zorlanılan konular tekrar edildi.
+869,659,210,00:00:00,00:45:00,2025-11-20,4,Eksik konular belirlendi.
+870,945,213,00:00:00,02:00:00,2027-01-10,2,Odaklanma seviyesi orta düzeydeydi.
+871,489,207,00:00:00,00:25:00,2026-11-25,5,Eksik konular belirlendi.
+872,61,206,00:00:00,02:00:00,2026-08-25,4,Quiz öncesi hazırlık yapıldı.
+873,229,209,00:00:00,01:00:00,2026-05-29,5,Zorlanılan konular tekrar edildi.
+874,979,211,00:00:00,01:15:00,2025-05-09,2,Ders notları gözden geçirildi.
+875,175,216,00:00:00,00:40:00,2025-10-29,3,Eksik konular belirlendi.
+876,112,207,00:00:00,00:45:00,2025-10-19,2,Konu tekrarı yapıldı.
+877,797,203,00:00:00,01:15:00,2026-05-12,4,Odaklanma seviyesi orta düzeydeydi.
+878,783,209,00:00:00,01:15:00,2026-12-10,5,Eksik konular belirlendi.
+879,74,203,00:00:00,01:30:00,2027-01-13,5,Odaklanma seviyesi orta düzeydeydi.
+880,836,212,00:00:00,00:25:00,2026-06-02,1,Zorlanılan konular tekrar edildi.
+881,278,202,00:00:00,01:00:00,2025-06-25,4,Quiz öncesi hazırlık yapıldı.
+882,332,216,00:00:00,01:30:00,2025-09-29,4,Quiz öncesi hazırlık yapıldı.
+883,155,208,00:00:00,01:30:00,2026-03-20,3,Bir sonraki çalışma için plan yapıldı.
+884,612,201,00:00:00,00:40:00,2026-11-24,5,Konu tekrarı yapıldı.
+885,948,212,00:00:00,00:45:00,2025-10-06,2,Quiz öncesi hazırlık yapıldı.
+886,723,201,00:00:00,02:00:00,2025-08-27,3,Konu tekrarı yapıldı.
+887,150,200,00:00:00,00:25:00,2026-11-28,1,Ders notları gözden geçirildi.
+888,549,207,00:00:00,00:40:00,2026-09-09,5,Örnek sorular çözüldü.
+889,934,212,00:00:00,00:40:00,2025-12-08,4,Çalışma süresi hedefe yakındı.
+890,354,209,00:00:00,02:00:00,2026-10-11,4,Eksik konular belirlendi.
+891,218,201,00:00:00,00:45:00,2026-04-27,5,Ders notları gözden geçirildi.
+892,955,210,00:00:00,02:00:00,2025-09-07,2,Konu tekrarı yapıldı.
+893,255,201,00:00:00,01:15:00,2026-11-16,4,Quiz öncesi hazırlık yapıldı.
+894,584,206,00:00:00,00:40:00,2025-09-24,5,Çalışma süresi hedefe yakındı.
+895,578,214,00:00:00,00:40:00,2026-05-09,2,Odaklanma seviyesi orta düzeydeydi.
+896,345,212,00:00:00,00:40:00,2026-10-05,5,Konu tekrarı yapıldı.
+897,631,202,00:00:00,00:40:00,2026-12-12,2,Odaklanma seviyesi orta düzeydeydi.
+898,937,201,00:00:00,01:00:00,2025-11-26,2,Bugünkü çalışma verimli geçti.
+899,927,209,00:00:00,01:00:00,2026-07-23,5,Çalışma süresi hedefe yakındı.
+900,550,207,00:00:00,00:25:00,2026-08-31,4,Bugünkü çalışma verimli geçti.
+901,283,213,00:00:00,00:25:00,2025-12-10,4,Quiz öncesi hazırlık yapıldı.
+902,329,206,00:00:00,01:00:00,2026-11-22,4,Odaklanma seviyesi orta düzeydeydi.
+903,405,207,00:00:00,01:15:00,2025-11-09,1,Quiz öncesi hazırlık yapıldı.
+904,969,205,00:00:00,01:15:00,2026-04-07,3,Quiz öncesi hazırlık yapıldı.
+905,401,208,00:00:00,00:40:00,2026-03-26,5,Quiz öncesi hazırlık yapıldı.
+906,707,204,00:00:00,01:00:00,2026-03-10,1,Ders notları gözden geçirildi.
+907,828,215,00:00:00,00:45:00,2025-10-11,1,Quiz öncesi hazırlık yapıldı.
+908,621,213,00:00:00,01:15:00,2025-12-02,3,Quiz öncesi hazırlık yapıldı.
+909,878,207,00:00:00,01:00:00,2026-09-13,4,Ders notları gözden geçirildi.
+910,632,203,00:00:00,01:00:00,2026-09-19,3,Bir sonraki çalışma için plan yapıldı.
+911,887,212,00:00:00,01:15:00,2026-03-13,5,Örnek sorular çözüldü.
+912,436,204,00:00:00,00:25:00,2026-07-12,2,Ders notları gözden geçirildi.
+913,63,207,00:00:00,00:30:00,2025-07-25,3,Konu tekrarı yapıldı.
+914,194,200,00:00:00,02:00:00,2025-08-25,1,Örnek sorular çözüldü.
+915,530,205,00:00:00,01:00:00,2026-05-04,3,Ders notları gözden geçirildi.
+916,239,216,00:00:00,01:15:00,2026-07-29,2,Çalışma süresi hedefe yakındı.
+917,600,202,00:00:00,00:30:00,2025-07-11,1,Konu tekrarı yapıldı.
+918,176,216,00:00:00,00:25:00,2026-04-12,2,Eksik konular belirlendi.
+919,684,210,00:00:00,00:25:00,2026-06-08,5,Çalışma süresi hedefe yakındı.
+920,466,214,00:00:00,00:45:00,2026-12-04,4,Quiz öncesi hazırlık yapıldı.
+921,644,201,00:00:00,00:40:00,2026-08-05,4,Odaklanma seviyesi orta düzeydeydi.
+922,453,208,00:00:00,00:40:00,2026-02-18,1,Konu tekrarı yapıldı.
+923,971,206,00:00:00,01:30:00,2026-03-05,3,Zorlanılan konular tekrar edildi.
+924,339,215,00:00:00,01:30:00,2026-04-12,4,Bir sonraki çalışma için plan yapıldı.
+925,294,211,00:00:00,00:25:00,2025-06-23,2,Eksik konular belirlendi.
+926,575,212,00:00:00,00:40:00,2026-08-30,3,Zorlanılan konular tekrar edildi.
+927,611,209,00:00:00,00:30:00,2026-08-05,4,Eksik konular belirlendi.
+928,14,207,00:00:00,01:15:00,2025-10-17,2,Eksik konular belirlendi.
+929,771,210,00:00:00,01:15:00,2026-11-21,2,Konu tekrarı yapıldı.
+930,234,213,00:00:00,01:30:00,2026-02-24,5,Quiz öncesi hazırlık yapıldı.
+931,538,214,00:00:00,01:30:00,2026-04-26,2,Konu tekrarı yapıldı.
+932,24,206,00:00:00,00:40:00,2025-05-19,4,Quiz öncesi hazırlık yapıldı.
+933,931,212,00:00:00,00:40:00,2025-07-22,3,Ders notları gözden geçirildi.
+934,17,215,00:00:00,00:40:00,2026-09-10,1,Konu tekrarı yapıldı.
+935,282,207,00:00:00,00:25:00,2026-10-12,1,Bir sonraki çalışma için plan yapıldı.
+936,333,216,00:00:00,01:30:00,2026-10-30,2,Zorlanılan konular tekrar edildi.
+937,359,211,00:00:00,00:40:00,2026-03-26,4,Quiz öncesi hazırlık yapıldı.
+938,327,204,00:00:00,00:45:00,2025-12-08,5,Bugünkü çalışma verimli geçti.
+939,666,202,00:00:00,01:00:00,2026-08-05,1,Bir sonraki çalışma için plan yapıldı.
+940,525,202,00:00:00,01:15:00,2026-06-25,5,Zorlanılan konular tekrar edildi.
+941,784,207,00:00:00,01:30:00,2025-06-25,1,Eksik konular belirlendi.
+942,623,216,00:00:00,01:30:00,2025-11-23,4,Ders notları gözden geçirildi.
+943,998,208,00:00:00,02:00:00,2027-01-06,5,Bugünkü çalışma verimli geçti.
+944,458,208,00:00:00,01:30:00,2025-12-29,3,Ders notları gözden geçirildi.
+945,57,211,00:00:00,00:25:00,2026-08-18,1,Çalışma süresi hedefe yakındı.
+946,349,205,00:00:00,01:15:00,2025-09-18,5,Zorlanılan konular tekrar edildi.
+947,525,204,00:00:00,00:40:00,2026-05-09,2,Bir sonraki çalışma için plan yapıldı.
+948,998,212,00:00:00,01:00:00,2026-04-21,2,Çalışma süresi hedefe yakındı.
+949,845,216,00:00:00,01:00:00,2025-06-08,1,Konu tekrarı yapıldı.
+950,992,208,00:00:00,02:00:00,2026-10-20,1,Zorlanılan konular tekrar edildi.
+951,336,215,00:00:00,00:40:00,2025-09-01,1,Bugünkü çalışma verimli geçti.
+952,164,205,00:00:00,02:00:00,2025-10-31,2,Örnek sorular çözüldü.
+953,472,200,00:00:00,00:30:00,2026-07-25,4,Zorlanılan konular tekrar edildi.
+954,326,204,00:00:00,01:00:00,2025-11-08,1,Quiz öncesi hazırlık yapıldı.
+955,526,206,00:00:00,01:00:00,2026-07-14,2,Ders notları gözden geçirildi.
+956,977,202,00:00:00,01:00:00,2026-12-04,5,Örnek sorular çözüldü.
+957,731,205,00:00:00,00:45:00,2026-09-10,2,Eksik konular belirlendi.
+958,980,204,00:00:00,00:25:00,2025-06-24,3,Bugünkü çalışma verimli geçti.
+959,889,216,00:00:00,00:40:00,2026-11-14,3,Odaklanma seviyesi orta düzeydeydi.
+960,199,204,00:00:00,00:45:00,2026-02-13,3,Zorlanılan konular tekrar edildi.
+961,145,206,00:00:00,01:15:00,2026-10-09,1,Konu tekrarı yapıldı.
+962,119,207,00:00:00,01:15:00,2026-12-12,2,Quiz öncesi hazırlık yapıldı.
+963,809,204,00:00:00,01:30:00,2026-02-04,5,Bugünkü çalışma verimli geçti.
+964,411,204,00:00:00,00:30:00,2025-08-25,1,Çalışma süresi hedefe yakındı.
+965,31,208,00:00:00,01:00:00,2025-07-31,3,Bir sonraki çalışma için plan yapıldı.
+966,635,207,00:00:00,01:30:00,2025-11-25,1,Quiz öncesi hazırlık yapıldı.
+967,413,201,00:00:00,01:00:00,2026-12-20,3,Zorlanılan konular tekrar edildi.
+968,362,207,00:00:00,00:45:00,2026-03-14,1,Quiz öncesi hazırlık yapıldı.
+969,679,211,00:00:00,01:00:00,2026-02-07,2,Eksik konular belirlendi.
+970,43,205,00:00:00,02:00:00,2026-04-28,2,Eksik konular belirlendi.
+971,340,200,00:00:00,01:30:00,2025-11-20,4,Örnek sorular çözüldü.
+972,863,202,00:00:00,00:45:00,2026-08-17,5,Quiz öncesi hazırlık yapıldı.
+973,424,216,00:00:00,02:00:00,2027-01-02,2,Çalışma süresi hedefe yakındı.
+974,942,210,00:00:00,01:00:00,2025-11-26,4,Quiz öncesi hazırlık yapıldı.
+975,924,207,00:00:00,02:00:00,2026-02-16,1,Konu tekrarı yapıldı.
+976,192,216,00:00:00,02:00:00,2025-06-06,1,Odaklanma seviyesi orta düzeydeydi.
+977,261,215,00:00:00,02:00:00,2026-09-14,2,Zorlanılan konular tekrar edildi.
+978,219,215,00:00:00,00:30:00,2026-05-29,5,Quiz öncesi hazırlık yapıldı.
+979,721,215,00:00:00,00:40:00,2025-12-05,5,Bugünkü çalışma verimli geçti.
+980,627,216,00:00:00,00:45:00,2025-07-08,5,Eksik konular belirlendi.
+981,76,201,00:00:00,01:00:00,2025-07-18,4,Eksik konular belirlendi.
+982,235,201,00:00:00,00:45:00,2025-12-11,1,Bir sonraki çalışma için plan yapıldı.
+983,558,216,00:00:00,00:25:00,2026-09-15,5,Odaklanma seviyesi orta düzeydeydi.
+984,282,207,00:00:00,00:30:00,2026-02-07,2,Quiz öncesi hazırlık yapıldı.
+985,628,201,00:00:00,02:00:00,2025-06-04,1,Konu tekrarı yapıldı.
+986,406,212,00:00:00,00:45:00,2025-12-03,1,Bugünkü çalışma verimli geçti.
+987,546,213,00:00:00,00:45:00,2025-10-25,5,Odaklanma seviyesi orta düzeydeydi.
+988,910,206,00:00:00,01:00:00,2027-01-15,4,Bir sonraki çalışma için plan yapıldı.
+989,770,200,00:00:00,00:45:00,2025-12-13,5,Ders notları gözden geçirildi.
+990,436,202,00:00:00,01:30:00,2025-09-16,5,Bugünkü çalışma verimli geçti.
+991,199,208,00:00:00,01:15:00,2026-11-04,2,Eksik konular belirlendi.
+992,378,214,00:00:00,02:00:00,2026-10-22,4,Bir sonraki çalışma için plan yapıldı.
+993,136,200,00:00:00,00:45:00,2025-07-26,3,Ders notları gözden geçirildi.
+994,505,201,00:00:00,00:30:00,2026-12-09,5,Konu tekrarı yapıldı.
+995,81,209,00:00:00,01:00:00,2026-07-09,2,Eksik konular belirlendi.
+996,929,207,00:00:00,00:25:00,2027-01-05,1,Eksik konular belirlendi.
+997,684,211,00:00:00,01:15:00,2026-05-16,5,Çalışma süresi hedefe yakındı.
+998,990,206,00:00:00,02:00:00,2025-06-09,3,Bir sonraki çalışma için plan yapıldı.
+999,287,214,00:00:00,01:00:00,2025-09-27,2,Konu tekrarı yapıldı.
+1000,693,216,00:00:00,01:15:00,2025-12-29,2,Bugünkü çalışma verimli geçti.
