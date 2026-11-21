@@ -1,3 +1,4 @@
+//cd /Users/selin/IdeaProjects/StudyTrackerApp && mvn clean compile exec:java -Dexec.mainClass="main"
 import javafx.animation.Animation;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
@@ -44,8 +45,8 @@ public class StudentDashboard {
 
     // VERİTABANI BAĞLANTISI
     private final String URL = "jdbc:mysql://localhost:3306/BIM216_Project?useUnicode=true&characterEncoding=UTF-8&connectionCollation=utf8mb4_unicode_ci";
-    private final String USER = "root";
-    private final String PASS = "";
+    private final String USER = System.getenv().getOrDefault("DB_USER", "root");
+    private final String PASS = System.getenv().getOrDefault("DB_PASSWORD", "");
 
     private Timeline timeline;
     private int secondsPassed = 0;
@@ -144,7 +145,7 @@ public class StudentDashboard {
         mainLayout.setLeft(sideBar);
     }
 
-    // --- KRONOMETRE VE TABLO EKRANI ---
+
     // --- KRONOMETRE VE TABLO EKRANI ---
     private void showStopwatch() {
         VBox content = new VBox(25);
@@ -309,7 +310,7 @@ public class StudentDashboard {
 
     // --- KRONOMETREYİ VERİTABANINA KAYDETME YARDIMCI METODU (GÜNCELLENDİ) ---
     private void saveStudySessionToDB(String subjectName, int totalSeconds) {
-        // 1. ADIM: Ekrana Şık Bir Değerlendirme Penceresi (Dialog) Çıkar
+        // 1. ADIM: Ekrana Değerlendirme Penceresi (Dialog) Çıkar
         javafx.scene.control.Dialog<javafx.util.Pair<Integer, String>> dialog = new javafx.scene.control.Dialog<>();
         dialog.setTitle("Tebrikler! Seans Bitti 🚀");
         dialog.setHeaderText(subjectName + " çalışmasını tamamladın. Bu seans nasıldı?");
@@ -417,7 +418,8 @@ public class StudentDashboard {
         javafx.collections.ObservableList<StudySessionRecord> list = javafx.collections.FXCollections.observableArrayList();
 
         // SQL sorgusunun en başına "ss.SessionID" eklendi. Artık veritabanından kimlikleri de çekiyoruz.
-        String sql = "SELECT ss.SessionID, s.SubjectName, ss.SessionDate, ss.StartTime, ss.EndTime, TIMEDIFF(ss.EndTime, ss.StartTime) as Duration, ss.FocusLevel, ss.SessionNote " +
+        String sql = "SELECT ss.SessionID, s.SubjectName, ss.SessionDate, ss.StartTime, ss.EndTime, " +
+                "TIMEDIFF(ss.EndTime, ss.StartTime) as Duration, ss.FocusLevel, ss.SessionNote " +
                 "FROM STUDY_SESSIONS ss JOIN SUBJECT s ON ss.SubjectID = s.SubjectID " + "WHERE ss.StudentID = ? AND ss.StartTime != ss.EndTime ";
 
         if (subjectFilter != null && !subjectFilter.isEmpty()) {
@@ -583,7 +585,7 @@ public class StudentDashboard {
     }
 
 
-    // --- 📊 HEDEF VE GERÇEKLEŞEN GRAFİĞİ (SADECE GERÇEK VERİLER) ---
+    // --- 📊 HEDEF VE GERÇEKLEŞEN GRAFİĞİ  ---
     private VBox createProgressChartCard() {
         VBox card = new VBox(15);
         card.setPadding(new Insets(25));
@@ -1086,7 +1088,7 @@ public class StudentDashboard {
                     String borderColor = rs.getString("Category").equalsIgnoreCase("Sayısal") ? "#3498DB" : "#E74C3C";
                     cell.setStyle("-fx-background-color: " + color + "; -fx-background-radius: 12; -fx-border-color: " + borderColor + "; -fx-border-radius: 12; -fx-border-width: 1; -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 8, 0, 0, 4);");
 
-                    // ********* BURADAN İTİBAREN EKLEME YAPILIYOR *********
+
 
                     // Lambda içinde kullanabilmek için o anki satırın tarih ve saatini sabitliyoruz
                     final String currentCellDate = date.toString();
@@ -1105,7 +1107,7 @@ public class StudentDashboard {
                         System.out.println("Seçildi: " + selectedDate + " " + selectedTime);
                     });
 
-                    // ********* EKLEME BİTTİ, MEVCUT KODLARINA DEVAM ET *********
+
 
                     Label l = new Label(rs.getString("SubjectName"));
                     l.setStyle("-fx-text-fill: #2d3436; -fx-font-weight: 800; -fx-font-size: 11px;");
@@ -1244,7 +1246,7 @@ public class StudentDashboard {
         centerLayout.setCenter(content);
     }
 
-    // --- QUİZ GELİŞİM GRAFİĞİNİ GÜNCELLEYEN METOT (SIRALI VE HATASIZ) ---
+    // --- QUİZ GELİŞİM GRAFİĞİNİ GÜNCELLEYEN METOT  ---
     private void updateQuizChart(Integer subjectId) {
         if (progressChart == null) return;
         progressChart.getData().clear();

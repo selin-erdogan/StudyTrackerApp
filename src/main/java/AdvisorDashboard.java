@@ -36,8 +36,8 @@ public class AdvisorDashboard {
     }
 
     private final String URL = "jdbc:mysql://localhost:3306/BIM216_Project?useUnicode=true&characterEncoding=UTF-8&connectionCollation=utf8mb4_unicode_ci";
-    private final String USER = "root";
-    private final String PASS = "";
+    private final String USER = System.getenv().getOrDefault("DB_USER", "root");
+    private final String PASS = System.getenv().getOrDefault("DB_PASSWORD", "");
 
     public void show() {
         BorderPane root = new BorderPane();
@@ -173,12 +173,13 @@ public class AdvisorDashboard {
         VBox page = page();
         page.getChildren().add(pageTitle("Öğrenci Yönetimi"));
 
-        TextField filter = tf("Öğrenci ID ile filtrele...");
-        filter.setMaxWidth(280);
+        TextField filter = tf("İsim veya ID ile filtrele...");
+        filter.setMaxWidth(320);
 
         TableView<StudentRow> tbl = new TableView<>();
         tbl.setColumnResizePolicy(TableView.CONSTRAINED_RESIZE_POLICY);
         styleTable(tbl);
+        VBox.setVgrow(tbl, Priority.ALWAYS);
 
         tbl.getColumns().addAll(
                 col("ID",       "id"),
@@ -197,6 +198,27 @@ public class AdvisorDashboard {
 
         tbl.setItems(filt);
 
+        // Form alanları
+        TextField tfName  = tf("Ad Soyad");
+        TextField tfEmail = tf("E-posta");
+        PasswordField tfPass = new PasswordField();
+        tfPass.setPromptText("Şifre");
+        styleCtrl(tfPass);
+
+        Label statusLbl = new Label("");
+        statusLbl.setStyle("-fx-font-size:12px; -fx-font-weight:700;");
+
+        // Seçili satırı forma doldur (Güncelleme için)
+        tbl.getSelectionModel().selectedItemProperty().addListener((obs, old, sel) -> {
+            if (sel != null) {
+                tfName.setText(sel.getName());
+                tfEmail.setText(sel.getEmail());
+                tfPass.clear();
+                statusLbl.setText("Seçili: " + sel.getName() + " (ID: " + sel.getId() + ")");
+                statusLbl.setStyle("-fx-text-fill: #00b894; -fx-font-weight:700; -fx-font-size:12px;");
+            }
+        });
+
         tbl.setRowFactory(tv -> {
             TableRow<StudentRow> row = new TableRow<>();
             row.setOnMouseClicked(ev -> {
@@ -207,52 +229,78 @@ public class AdvisorDashboard {
             return row;
         });
 
-        TextField tfName = tf("Ad Soyad");
-        TextField tfEmail = tf("E-posta");
+        Button addBtn    = btn("➕ Ekle",      "#00b894");
+        Button updateBtn = btn("🔄 Güncelle",  "#0984e3");
+        Button delBtn    = btn("🗑 Sil",       "#ff7675");
+        Button clearBtn  = btn("✖ Seçimi Temizle", "#636e72");
 
-        PasswordField tfPass = new PasswordField();
-        tfPass.setPromptText("Şifre");
-        styleCtrl(tfPass);
-
-        Button addBtn = btn("+ Ekle", "#00b894");
-        Button delBtn = btn("Sil",    "#ff7675");
+        Runnable refreshTable = () -> {
+            ObservableList<StudentRow> nd = dbStudents();
+            FilteredList<StudentRow> nf = new FilteredList<>(nd, p -> true);
+            tbl.setItems(nf);
+            tbl.getSelectionModel().clearSelection();
+            tfName.clear(); tfEmail.clear(); tfPass.clear();
+            statusLbl.setText("");
+        };
 
         addBtn.setOnAction(e -> {
-            if (!tfName.getText().isBlank() && !tfEmail.getText().isBlank()) {
-                dbAddStudent(tfName.getText(), tfEmail.getText(), tfPass.getText());
-                tfName.clear();
-                tfEmail.clear();
-                tfPass.clear();
-
-                ObservableList<StudentRow> newData = dbStudents();
-                FilteredList<StudentRow> newFilt = new FilteredList<>(newData, p -> true);
-                tbl.setItems(newFilt);
+            if (tfName.getText().isBlank() || tfEmail.getText().isBlank() || tfPass.getText().isBlank()) {
+                showAlert("Eksik Bilgi", "Ad Soyad, E-posta ve Şifre alanlarını doldurun.");
+                return;
             }
+            dbAddStudent(tfName.getText().trim(), tfEmail.getText().trim(), tfPass.getText().trim());
+            refreshTable.run();
+            statusLbl.setText("✅ Öğrenci eklendi.");
+            statusLbl.setStyle("-fx-text-fill:#00b894; -fx-font-weight:700; -fx-font-size:12px;");
+        });
+
+        updateBtn.setOnAction(e -> {
+            StudentRow sel = tbl.getSelectionModel().getSelectedItem();
+            if (sel == null) { showAlert("Seçim Yok", "Güncellemek için listeden bir öğrenci seçin."); return; }
+            if (tfName.getText().isBlank() || tfEmail.getText().isBlank()) { showAlert("Eksik Bilgi", "Ad Soyad ve E-posta zorunludur."); return; }
+            dbUpdateStudent(sel.getId(), tfName.getText().trim(), tfEmail.getText().trim(),
+                    tfPass.getText().isBlank() ? null : tfPass.getText().trim());
+            refreshTable.run();
+            statusLbl.setText("✅ Öğrenci güncellendi.");
+            statusLbl.setStyle("-fx-text-fill:#0984e3; -fx-font-weight:700; -fx-font-size:12px;");
         });
 
         delBtn.setOnAction(e -> {
-            StudentRow s = tbl.getSelectionModel().getSelectedItem();
-            if (s != null) {
-                dbDelStudent(s.getId());
+            StudentRow sel = tbl.getSelectionModel().getSelectedItem();
+            if (sel == null) { showAlert("Seçim Yok", "Silmek için listeden bir öğrenci seçin."); return; }
+            Alert confirm = new Alert(Alert.AlertType.CONFIRMATION);
+            confirm.setTitle("Silme Onayı");
+            confirm.setHeaderText(null);
+            confirm.setContentText(sel.getName() + " adlı öğrenciyi ve tüm verilerini silmek istediğinize emin misiniz?");
+            confirm.showAndWait().ifPresent(btn2 -> {
+                if (btn2 == javafx.scene.control.ButtonType.OK) {
+                    dbDelStudent(sel.getId());
+                    refreshTable.run();
+                    statusLbl.setText("🗑 Öğrenci silindi.");
+                    statusLbl.setStyle("-fx-text-fill:#ff7675; -fx-font-weight:700; -fx-font-size:12px;");
+                }
+            });
+        });
 
-                ObservableList<StudentRow> newData = dbStudents();
-                FilteredList<StudentRow> newFilt = new FilteredList<>(newData, p -> true);
-                tbl.setItems(newFilt);
-            }
+        clearBtn.setOnAction(e -> {
+            tbl.getSelectionModel().clearSelection();
+            tfName.clear(); tfEmail.clear(); tfPass.clear();
+            statusLbl.setText("");
         });
 
         VBox formBox = card();
+        Label formTitle = new Label("📋 Öğrenci Ekle / Güncelle");
+        formTitle.setStyle("-fx-font-weight:800; -fx-font-size:13px; -fx-text-fill:#2d3436;");
         FlowPane fp = flow();
         fp.getChildren().addAll(
                 lbl("Ad Soyad:"), tfName,
-                lbl("E-posta:"), tfEmail,
-                lbl("Şifre:"), tfPass,
-                addBtn, delBtn
+                lbl("E-posta:"),  tfEmail,
+                lbl("Şifre:"),    tfPass,
+                addBtn, updateBtn, delBtn, clearBtn
         );
+        formBox.getChildren().addAll(formTitle, fp, statusLbl);
 
-        formBox.getChildren().add(fp);
-
-        Label hint = new Label("ℹ Satıra çift tıklayarak kontrol panelini açabilirsiniz.");
+        Label hint = new Label("ℹ Satıra çift tıklayarak öğrencinin detay panelini açabilirsiniz. Tek tıklama formu doldurur (güncelleme için).");
         hint.setStyle("-fx-font-size:11px; -fx-text-fill:#dfe6e9;");
 
         page.getChildren().addAll(filter, tbl, formBox, hint);
@@ -602,8 +650,9 @@ public class AdvisorDashboard {
     }
 
     private void dbAddStudent(String name, String email, String pass) {
+        // Subquery alias (tmp) trick: MySQL'de "SELECT FROM same table" kısıtını aşmak için
         String sql = "INSERT INTO STUDENT(StudentID, ST_FullName, ST_Email, ST_Password, AdvisorID, RegistrationDate) " +
-                "VALUES((SELECT COALESCE(MAX(StudentID),0)+1 FROM STUDENT), ?, ?, ?, ?, ?)";
+                "VALUES((SELECT COALESCE(MAX(sid),0)+1 FROM (SELECT StudentID AS sid FROM STUDENT) AS tmp), ?, ?, ?, ?, ?)";
         try (Connection c = DriverManager.getConnection(URL, USER, PASS);
              PreparedStatement ps = c.prepareStatement(sql)) {
             ps.setString(1, name);
@@ -612,7 +661,27 @@ public class AdvisorDashboard {
             ps.setInt(4, advisorId);
             ps.setDate(5, java.sql.Date.valueOf(LocalDate.now()));
             ps.executeUpdate();
-        } catch (SQLException e) { e.printStackTrace(); }
+        } catch (SQLException e) {
+            e.printStackTrace();
+            javafx.application.Platform.runLater(() -> showAlert("Eklenemedi", e.getMessage()));
+        }
+    }
+
+    private void dbUpdateStudent(int id, String name, String email, String pass) {
+        String sql = pass != null
+                ? "UPDATE STUDENT SET ST_FullName=?, ST_Email=?, ST_Password=? WHERE StudentID=?"
+                : "UPDATE STUDENT SET ST_FullName=?, ST_Email=? WHERE StudentID=?";
+        try (Connection c = DriverManager.getConnection(URL, USER, PASS);
+             PreparedStatement ps = c.prepareStatement(sql)) {
+            ps.setString(1, name);
+            ps.setString(2, email);
+            if (pass != null) { ps.setString(3, pass); ps.setInt(4, id); }
+            else               { ps.setInt(3, id); }
+            ps.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+            javafx.application.Platform.runLater(() -> showAlert("Güncellenemedi", e.getMessage()));
+        }
     }
 
     private void dbDelStudent(int id) {
@@ -620,7 +689,10 @@ public class AdvisorDashboard {
              PreparedStatement ps = c.prepareStatement("DELETE FROM STUDENT WHERE StudentID=?")) {
             ps.setInt(1, id);
             ps.executeUpdate();
-        } catch (SQLException e) { e.printStackTrace(); }
+        } catch (SQLException e) {
+            e.printStackTrace();
+            javafx.application.Platform.runLater(() -> showAlert("Silinemedi", e.getMessage()));
+        }
     }
 
     private ObservableList<SubjectRow> dbSubjects() {
@@ -826,6 +898,14 @@ public class AdvisorDashboard {
         ScrollPane sp = new ScrollPane(page); sp.setFitToWidth(true);
         sp.setStyle("-fx-background-color:transparent; -fx-background:transparent; -fx-border-color:transparent;");
         contentArea.getChildren().setAll(sp);
+    }
+
+    private void showAlert(String title, String message) {
+        Alert alert = new Alert(Alert.AlertType.ERROR);
+        alert.setTitle(title);
+        alert.setHeaderText(null);
+        alert.setContentText(message);
+        alert.showAndWait();
     }
 
     private void styleTable(TableView<?> t) {
